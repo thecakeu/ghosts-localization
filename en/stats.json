@@ -1,8 +1,8 @@
 {
-    "stat.health.regeneration" : "Health Regeneration",
+    "stat.health.regeneration" : "Health",
     "stat.bleedrecovery" : "Blood Loss",
     "stat.radiationrecovery" : "Radiation",
-    "stat.psychic.regeneration" : "Psy Regeneration",
+    "stat.psychic.regeneration" : "Psy Health",
 
     "stat.armswaymultiplier" : "Handling",
 
@@ -29,6 +29,6 @@
 
     "stat.movement.speedmult" : "Speed",
     "stat.movement.jumpmult" : "Jump Height",
-    
+
     "stat.carryweight" : "Carry Weight"
 }
