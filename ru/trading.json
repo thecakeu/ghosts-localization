@@ -1,0 +1,14 @@
+{
+    "trade.outgoing": "Ваши предметы",
+    "trade.incoming": "Предметы торговца",
+    "trade.complete": "Завершить сделку",
+    "trade.playermoney": "Ваши деньги",
+    "trade.moneyaftertrade": "После сделки",
+    "trade.cantafford": "Недостаточно средств!",
+    "trade.cantfit": "Не хватает места!",
+    "trade.value": "Стоимость",
+    "trade.netvalue": "Чистая стоимость",
+    "trade.playerpays": "Вы платите",
+    "trade.playerpaid": "Вы получаете",
+    "trade.clear": "Очистить"
+}
