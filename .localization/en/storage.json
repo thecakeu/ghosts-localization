@@ -1,0 +1,19 @@
+{
+    "backpack.name" : "Backpack",
+    "backpack.description" : "A small, civilian backpack with woefully inadequate storage for explorations into the Zone.",
+
+    "backpack.camping.name" : "Camping Backpack",
+    "backpack.camping.description" : "A larger civilian backpack, often used by hikers and campers when out exploring. Its carrying capabilities are just as much use in the Zone, though it still lacks the storage space for the long, difficult journies so often ventured by Stalkers.",
+
+    "backpack.travel.name" : "Travel Backpack",
+    "backpack.travel.description" : "A spacious backpack, even by Zone standards, designed for maximum comfort:capacity ratio. It has plenty of storage for trecks of any length throughout the Zone.",
+
+    "backpack.combat.name" : "Combat Backpack",
+    "backpack.combat.description" : "A rugged, tight fitted and well maintained backpack. Designed for use on extended military operations in the Zone and tailored for maximum comfort, capacity and weight reduction.",
+
+    "backpack.tourist.name" : "Tourist Backpack",
+    "backpack.tourist.description" : "An almost comically large backpack, with more than enough space for anything. Nicknamed 'Tourist' packs, as they're often seen adorned by the foolhardy, rich Zone tourists who overestimate their own endurance and soon find themselves collapsing under the weight of their gear.",
+    
+    "wallet.name" : "Wallet",
+    "wallet.description" : "A small leather wallet designed to hold money and various small cards."
+}

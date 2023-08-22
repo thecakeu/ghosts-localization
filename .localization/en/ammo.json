@@ -1,0 +1,22 @@
+{
+    "12x70.name" : "12x70 buckshot",
+    "12x70.description" : "Standard 12 caliber round filled with 6mm shot. Probably the most common ammo in the Zone, its killing power is lethal at close range but the pellets have almost no penetration, making it a weak option vs armor.",
+
+    "9x18.name" : "9x18mm FMJ",
+    "9x18.description" : "A standard low caliber round, used in small arms and submachine guns. The jacketed bullet has good ballistic characteristics while being easy to produce, making it a popular choice of ammunition in the Zone.\n\nIneffective against most armor.",
+
+    "9x39.name" : "9x39mm AP",
+    "9x39.description" : "A subsonic round with a hardened, armor piercing core. Despite the low velocity of the bullet it provides considerable stopping power, able to penetrade 2mm of steel at 500m. It's popular in Warsaw Pact countries and has made a reputation for cost effectiveness in the Zone.",
+
+    "5x45x39.name" : "5.45x39mm FMJ",
+    "5x45x39.description" : "A rimless, bottlenecked cartridge with a jacketed bullet. Despite the light weight of the bullet it travels at a high velocity, making it exceptionally lethal even against lightly armored targets. At long ranges however, it will struggle to penetrate anything more than weakest armor.",
+
+    "7x62x54.name" : "7.62x54mm FMJ",
+    "7x62x54.description" : "A rimmed rifle cartridge originally produced in 1891, making it the second oldest cartridge still in service. The round offers excellent ballistic properties, high velocity and good penetration at all ranges.\n\nDue to popularity and subsequently increased demand in the Zone, it has become more expensive than many other optons.",
+
+    "50cal.name" : ".50 AE",
+    "50cal.description" : "One of the most powerful pistol cartridges in production, the .50 Action Express is most known for its use in the Desert Eagle.\n\nWhile the recoil is almost comically large and few take the cartridge seriously for combat situations, many Stalkers seek out weapons that use this ammo due to the unmatched stopping power it provides.\n\nIt will tear through most armor and mutant hide like there's nothing there.",
+
+    "rpg7.grenade.name" : "RPG-7 Grenade",
+    "rpg7.grenade.description" : "A grenade fitted with a gunpowder booster charge and a rocket motor, with an average speed of almost 300m/s once fired. The grenade has a minimum arming range of 10 meters, before which the grenade will fail to detonate.\n\nThe explosives in the grenade make it well suited for destroying armored vehicles as well as any mutant unlucky enough to get in the way."
+}

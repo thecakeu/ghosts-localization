@@ -1,0 +1,8 @@
+{
+    "noweight" : "Weightless",
+    "novalue" : "Valueless",
+    "notrade" : "Untradeable",
+    "nostash" : "Unstashable",
+    "currency" : "Currency",
+    "nodrop" : "Undroppable"
+}

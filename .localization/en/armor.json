@@ -1,0 +1,10 @@
+{
+    "leatherjacket.name" : "Leather Jacket",
+    "leatherjacket.description" : "A hallmark of any rookie to the Zone, the Leather Jacket offers very little protection from mutants, anomalies or radiation. Many Stalkers consider wearing one of these the equivalent of being naked, but at the very least this will keep you warm.",
+
+    "mediumarmor.name" : "Stalker Suit",
+    "mediumarmor.description" : "An effective combination of a light military bulletproof vest and of a rubberized fabric suit. It is reinforced with inserted kevlar plates and provides good protection from weak gunfire, while still maintaining appreciable protectiion against anomalies and radiation.",
+
+    "exoarmor.name" : "Exoskeleton",
+    "exoarmor.description" : "An experimental exoskeleton prototype first produced by the military. Despite never seeing mass production due to their exorbitant cost and numerous design flaws, they are still in high demand within the Zone. They offer unmatched protection from claws, gunfire, fragmentation, anomalies and radiation.\n\nThese suits additionally grant the wearer a near supernatural level of strength, vastly incrasing the maximum weight they can carry as well as reducing fatigue from long trecks throughout Zone and enhancing their melee capabilities.\n\nSome experimental suits even introduce a steady dose of chemicals into the wearers bloodsteam in order to maintain combat effectiveness."
+}

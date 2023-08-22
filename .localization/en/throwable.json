@@ -1,0 +1,7 @@
+{
+    "bolt.name" : "Bolt",
+    "bolt.description" : "The humble bolt, a permanent resident of every Stalkers armory.\n\nWhen exploring fields of anomalies, throwing a small object into their midst can help to reveal their exact locations, or to find a clear path for the prospecting Stalker.",
+
+    "grenade.f1.name" : "F1 Grenade",
+    "grenade.f1.description" : "The Russian F1 is an anti-personnel fragmentation defensive grenade, developed during WWII and based on the French F1 grenade.\n\nDue to its cheap manufacturing costs and powerful anitpersonnel properties, it has remained in service into the modern day. The grenade finds itself a nice niche in the Zone, being excellent for dealing with opposing Stalkers as well as any unlucky mutants.\n\nThe grenade has a 4 second fuse, which is activated when the spoon is released."
+}

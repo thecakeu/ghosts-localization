@@ -1,0 +1,14 @@
+{
+    "trade.outgoing" : "Your Items",
+    "trade.incoming" : "Trader Items",
+    "trade.complete" : "Complete Trade",
+    "trade.playermoney" : "Your Money",
+    "trade.moneyaftertrade" : "Post Trade",
+    "trade.cantafford" : "Can't Afford!",
+    "trade.cantfit" : "Can't fit items!",
+    "trade.value" : "Value",
+    "trade.netvalue" : "Net Value",
+    "trade.playerpays" : "You Pay",
+    "trade.playerpaid" : "You Receive",
+    "trade.clear" : "Clear"
+}

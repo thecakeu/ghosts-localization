@@ -1,0 +1,10 @@
+{
+    "respirator.name" : "Respirator",
+    "respirator.description" : "A rubber, emergency gasmask not designed for extended use. While it filters some toxins and radioactive particles from the air that is breathed in, it is not nearly as effective as proper protective equipment as it leaves the the eyes and face exposed to the elements.\n\nIt offers zero physical protection.\n\nStill, better than nothing. There are no choosing beggars in the Zone.",
+
+    "gasmask.name" : "Gas Mask",
+    "gasmask.description" : "A plastic and rubber gas mask, useful for filtering out chemicals and radioactive particles, while providing adequate protection from the elements. Its cheap materials and easy design make it an extremely common choice all throughout the Zone, by rookies and veterans alike.\n\nHowever, despite its popularity, it provdes very little combat protection and is ill-suited for a firefight.",
+
+    "exohelmet.name" : "Exo Helmet",
+    "exohelmet.description" : "Designed to be used alongside the military prototype exoskeletons, the Exo Helmet comes fitted with advanced chemical and radiological filters, as well as specialized air-flow pumps to allow for easier breathing.\n\nA combination of steel plates, carbonfibre polymer, and titanium webbing allow for the helmet to provide excellent protection from anomalies, gunfire and mutant attacks. It even provides limited psychic protection, though it is still considered experimental."
+}

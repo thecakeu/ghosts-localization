@@ -1,0 +1,10 @@
+{
+    "bandage.name" : "Bandage",
+    "bandage.description" : "A medicinal gauze that instantly stops light bleeding, but will require more than one to stop severe hemorrhages. It's a good idea to take a number of bandages for excursions into territories where one will face a lot of opposition.",
+
+    "medkit.name" : "Medkit",
+    "medkit.description" : "A standardized multipurpose medkit produced within the Zone, useful for treating wounds of all kinds - wounds, bruises, burns and poisonings.\n\nAlways in demand with never enough to go round, these are a must have for any Stalker, though this is least potent of the types of medkits found within the Zone.",
+
+    "booster.name" : "Booster",
+    "booster.description" : "A syringe filled with a combination of epinephrine and other combat stimuli, this will temporarily heighten awareness, decrease fatigue and increase overall athletic abilities at the cost of possible respitory and circulatory damage. While possibly invaluable, one should take care not to overrely on the drug as the side effects are potent and fast acting."
+}
