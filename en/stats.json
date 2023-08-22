@@ -1,0 +1,34 @@
+{
+    "stat.health.regeneration" : "Health Regeneration",
+    "stat.bleedrecovery" : "Blood Loss",
+    "stat.radiationrecovery" : "Radiation",
+    "stat.psychic.regeneration" : "Psy Regeneration",
+
+    "stat.armswaymultiplier" : "Handling",
+
+    "stat.hunger.increaserate" : "Hunger",
+    "stat.thirst.increaserate" : "Thirst",
+
+    "stat.temperature.highthreshold" : "Maximum Temperature",
+    "stat.temperature.lowthreshold" : "Minimum Temperature",
+
+    "stat.resistance.physical" : "Physical Resistance",
+    "stat.resistance.ballistic" : "Ballistic Resistance",
+    "stat.resistance.bludgeoning" :"Blunt Resistance",
+    "stat.resistance.slashing" : "Slashing Resistance",
+    "stat.resistance.explosion" : "Explosion Resistance",
+    "stat.resistance.fire" : "Fire Resistance",
+    "stat.resistance.electric" : "Electric Resistance",
+    "stat.resistance.chemical" : "Chemical Resistance",
+    "stat.resistance.psychic" : "Psychic Resistance",
+    "stat.resistance.radiation" : "Radiation Resistance",
+
+    "stat.stamina.maximum" : "Max Stamina",
+    "stat.stamina.regeneration" : "Stamina Regeneration",
+    "stat.stamina.costmultiplier" : "Stamina Cost",
+
+    "stat.movement.speedmult" : "Speed",
+    "stat.movement.jumpmult" : "Jump Height",
+    
+    "stat.carryweight" : "Carry Weight"
+}

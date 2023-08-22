@@ -83,5 +83,8 @@
     "stats.weapon.magazinecapacity.description" : "How many bullets fit in the magazine.",
 
     "stats.weapon.automatic" : "Automatic",
-    "stats.weapon.automatic.description" : "Is the gun automatic or not."
+    "stats.weapon.automatic.description" : "Is the gun automatic or not.",
+
+    "stats.item.storage" : "Storage Slots",
+    "stats.item.storage.description" : "How many slots total the storage for this item has."
 }
