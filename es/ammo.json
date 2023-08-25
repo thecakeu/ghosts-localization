@@ -1,0 +1,22 @@
+{
+    "12x70.name" : "12x70 perdigón!",
+    "12x70.description" : "Ronda estándar de calibre 12 llena con perdigones de 6mm. Probablemente la municion mas común en la Zona, su poder de matanza es letal a corta distancia pero los perdigones no tienen casi nada de penetracion, convirtiéndolo en una opción débil frente a la armadura.",
+
+    "9x18.name" : "9x18mm FMJ",
+    "9x18.description" : "Una bala estándar de bajo calibre, usado en pequeñas armas y subfusiles. La bala encamisada tiene buenas características balísticas y es fácil de producir, convirtiéndola en una de las opciones mas populares de municion en la Zona.\n\nIneficaz contra la mayoría de las armaduras.",
+
+    "9x39.name" : "9x39mm AP",
+    "9x39.description" : "Una ronda subsónica con un endurecido, núcleo perforador de armadura. A pesar de la baja velocidad de la bala, proporciona un poder de frenado considerable, siendo capaz de penetrar 2mm de acero a 500m. Es popular en países del pacto de varsovia, y ha conseguido una reputacion buena por su rentabilidad en la Zona.",
+
+    "5x45x39.name" : "5.45x39mm FMJ",
+    "5x45x39.description" : "Un cartucho sin montura y con cuello de botella con una bala encamisada. A pesar del ligero peso de la bala, viaja a gran velocidad, lo que la hace excepcionalmente letal incluso contra objetivos con armadura ligera. Sin embargo, a largas distancias tendrá dificultades para penetrar cualquier cosa que no sea la armadura más débil.",
+
+    "7x62x54.name" : "7.62x54mm FMJ",
+    "7x62x54.description" : "Un cartucho de rifle con borde producido originalmente en 1891, lo que lo convierte en el segundo cartucho más antiguo aún en servicio. La bala ofrece excelentes propiedades balísticas, alta velocidad y buena penetración en todos los rangos.\n\nDebido a la popularidad y al posterior aumento de demanda en la Zona, se ha vuelto más cara que muchas otras opciones.",
+
+    "50cal.name" : ".50 AE",
+    "50cal.description" : "Uno de los cartuchos de pistola más potentes que se producen, el .50 Action Express, es más conocido por su uso en la Desert Eagle.\n\nAunque el retroceso es casi cómicamente grande y pocos toman en serio el cartucho para situaciones de combate, muchos Stalkers buscan armas que usan esta munición debido al incomparable poder de frenado que proporciona.\n\nAtravesará la mayoría de armaduras y pieles mutantes como si no hubiera nada allí.",
+
+    "rpg7.grenade.name" : "RPG-7 Granada",
+    "rpg7.grenade.description" : "Una granada equipada con una carga de refuerzo de pólvora y un motor cohete, con una velocidad media de casi 300 m/s una vez disparada. La granada tiene un alcance mínimo de activación de 10 metros, antes del cual no detonará.\n\nLos explosivos de la granada la hacen muy adecuada para destruir vehículos blindados, así como cualquier mutante que tenga la mala suerte de interponerse en su camino."
+}

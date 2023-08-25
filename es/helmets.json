@@ -1,0 +1,10 @@
+{
+    "respirator.name" : "Respirador",
+    "respirator.description" : "Una máscara de gas de emergencia de goma no diseñada para uso prolongado. Si bien filtra algunas toxinas y partículas radiactivas del aire que se respira, no es tan efectivo como el equipo de protección adecuado, ya que deja los ojos y la cara expuestos a los elementos.\n\nNo ofrece protección física.\n \nAun así, mejor que nada. En la Zona no hay mendigos que elijan.",
+
+    "gasmask.name" : "Mascara de gas",
+    "gasmask.description" : "Una máscara de gas de plástico y caucho, útil para filtrar productos químicos y partículas radiactivas, al tiempo que proporciona una protección adecuada contra los elementos. Sus materiales baratos y su sencillo diseño lo convierten en una opción muy común en toda la Zona, tanto para novatos como para veteranos.\n\nSin embargo, a pesar de su popularidad, proporciona muy poca protección en combate y no es adecuado para un tiroteo.",
+
+    "exohelmet.name" : "Casco exo",
+    "exohelmet.description" : "Diseñado para usarse junto con los prototipos de exoesqueletos militares, el casco Exo viene equipado con filtros químicos y radiológicos avanzados, así como bombas de flujo de aire especializadas para permitir una respiración más fácil.\n\nUna combinación de placas de acero, polímero de fibra de carbono y titanio. Las correas permiten que el casco brinde una excelente protección contra anomalías, disparos y ataques mutantes. Incluso proporciona una protección psíquica limitada, aunque todavía se considera experimental."
+}

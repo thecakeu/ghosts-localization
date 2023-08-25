@@ -1,0 +1,90 @@
+{
+    "stats.ammo.damage" : "Daño",
+    "stats.ammo.damage.description" : "Cuánto daño causa la bala, suponiendo que el objetivo no tenga armadura.",
+
+    "stats.ammo.penetration" : "Penetración",
+    "stats.ammo.penetration.description" : "Reducirá la calificación de armadura del objetivo en el cálculo de daño en esta cantidad.",
+
+    "stats.ammo.muzzlevelocity" : "Cañón",
+    "stats.ammo.muzzlevelocity.description" : "¿A qué velocidad, en metros/segundo, viajará la bala? El valor real será modificado por el arma utilizada para dispararlo.",
+
+    "stats.ammo.bleedchance" : "Posiblidad de sangrado",
+    "stats.ammo.bleedchance.description" : "El porcentaje de probabilidad de causar sangrado cuando se alcanza el objetivo. La posibilidad se ve reducida por la armadura del objetivo.",
+    "stats.ammo.bleedseverity" : "Gravedad del sangrado",
+    "stats.ammo.bleedseverity.description" : "Cuánto sangrado se inflige si la bala sangra con éxito.",
+
+    "stats.armor.rating" : "Calificación de armadura",
+    "stats.armor.rating.description" : "Para el cálculo del daño, la penetración del blindaje de las balas se resta de tu índice de blindaje antes de aplicar los valores de resistencia del blindaje. Si la penetración de las balas es mayor, tu armadura no te protegerá en absoluto.",
+
+    "stats.armor.ballistic" : "Balístico",
+    "stats.armor.ballistic.description" : "Cuánta reducción de daño proporciona esta armadura contra las balas. La calificación Br de la armadura frente a la bala que te golpea afecta la cantidad de esta estadística que se aplica.",
+
+    "stats.armor.bludgeoning" : "Desafilado",
+    "stats.armor.bludgeoning.description" : "Cuánta reducción de daño versus daño contundente proporciona esta armadura. Esto incluye ciertos ataques de mutantes, así como daño de objetos y algunas armas cuerpo a cuerpo.",
+
+    "stats.armor.slashing" : "Cuchillada",
+    "stats.armor.slashing.description" : "Cuánta reducción de daño versus daño cortante proporciona esta armadura. Esto incluye ciertos mutantes y algunas armas cuerpo a cuerpo.",
+
+    "stats.armor.explosion" : "Explosión",
+    "stats.armor.explosion.description" : "Cuánta reducción de daño frente a explosiones proporciona esta armadura. Esto no incluye la metralla de las explosiones, que utilizará tus resistencias balísticas.",
+
+    "stats.armor.fire" : "Fuego",
+    "stats.armor.fire.description" : "Cuánta reducción de daño versus fuego proporciona esta armadura. Si este valor es lo suficientemente alto, no sufrirá daños ambientales debido a los campos de anomalías apropiados. Pisar uno directamente probablemente siga siendo una mala idea.",
+
+    "stats.armor.electric" : "Eléctrico",
+    "stats.armor.electric.description" : "Cuánta reducción de daño versus electricidad proporciona esta armadura. Si este valor es lo suficientemente alto, no sufrirá daños ambientales debido a los campos de anomalías apropiados. Además, reducirá las interferencias electrónicas por anomalías.",
+
+    "stats.armor.chemical" : "Químico",
+    "stats.armor.chemical.description" : "Cuánta reducción de daño frente a los peligros químicos proporciona esta armadura. Si este valor es lo suficientemente alto, no sufrirá daños ambientales debido a los campos de anomalías apropiados. También reducirá la pérdida de durabilidad causada por ambientes corrosivos.",
+
+    "stats.armor.psychic" : "Psíquico",
+    "stats.armor.psychic.description" : "Cuánta reducción de daño psíquico frente a los peligros psíquicos proporciona esta armadura. Si este valor es lo suficientemente alto, los campos psíquicos ya no consumirán tu salud psíquica. Esta estadística es rara.",
+
+    "stats.armor.radiation" : "Radiación",
+    "stats.armor.radiation.description" : "Lo que la armadura reduce de la acumulaición de radiación. Si este valor es lo suficientemente alto, los campos de radiación ya no aumentarán sus niveles de radiación. Sin embargo, no protegerá contra artefactos.",
+
+    "stats.armor.movespeed" : "Velocidad de movimiento",
+    "stats.armor.movespeed.description" : "Multiplicador de velocidad de movimiento que proporciona esta armadura.",
+
+    "stats.armor.jumpheight" : "Altura de salto",
+    "stats.armor.jumpheight.description" : "Multiplicador para saltar la altura que proporciona esta armadura.",
+
+    "stats.armor.carryweight" : "Peso",
+    "stats.armor.carryweight.description" : "Cuánto peso de carga adicional te brinda esta armadura además de tu peso de carga base.",
+
+    "stats.armor.staminacost" : "Coste de resistencia",
+    "stats.armor.staminacost.description" : "Cuánto más/menos resistencia te hace usar esta armadura.",
+
+    "stats.armor.staminaregeneration" : "Regeneración de resistencia",
+    "stats.armor.staminaregeneration.description" : "Cuánto aumenta/disminuye esta armadura tu regeneración de resistencia.",
+
+    "stats.weapon.accuracy" : "Precisión",
+    "stats.weapon.accuracy.description" : "Qué precisa es el arma. 100% representa exactamente cero diferencial.",
+
+    "stats.weapon.rpm" : "RPM",
+    "stats.weapon.rpm.description" : "Revoluciones por minuto",
+
+    "stats.weapon.recoil.vertical" : "Retroceso vertical",
+    "stats.weapon.recoil.vertical.description" : "Cuánto se levanta verticalmente el arma al disparar. Un mayor retroceso significa más patada.",
+
+    "stats.weapon.recoil.horizontal" : "Retroceso horizontal",
+    "stats.weapon.recoil.horizontal.description" : "Cuánta patada horizontal tiene el arma al disparar. Un mayor retroceso significa más patada.",
+
+    "stats.weapon.handling" : "Manejo",
+    "stats.weapon.handling.description" : "Cuánto se balancea el arma al usarla. Un mayor manejo resulta en menos balanceo.",
+
+    "stats.weapon.ergonomics" : "Ergonomía",
+    "stats.weapon.ergonomics.description" : "Qué tan eficientes son las acciones de resistencia con esta arma. Una mayor ergonomía da como resultado una menor pérdida de energía.",
+
+    "stats.weapon.reliability" : "Fiabilidad",
+    "stats.weapon.reliability.description" : "La confiabilidad afecta la cantidad de durabilidad que se pierde al usar el arma. Una mayor confiabilidad significa una pérdida de durabilidad más lenta.",
+
+    "stats.weapon.magazinecapacity" : "Capacidad del cargador",
+    "stats.weapon.magazinecapacity.description" : "Cuantas balas caben en el cargador.",
+
+    "stats.weapon.automatic" : "Automatico",
+    "stats.weapon.automatic.description" : "Si la pistola es automatica o no.",
+
+    "stats.item.storage" : "Ranuras de almacenamiento",
+    "stats.item.storage.description" : "Cuántas ranuras tiene en total el almacenamiento para este artículo."
+}

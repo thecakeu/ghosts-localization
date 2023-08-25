@@ -1,0 +1,19 @@
+{
+    "backpack.name" : "Mochila",
+    "backpack.description" : "Una pequeña mochila civil con un almacenamiento lamentablemente inadecuado para exploraciones en la Zona.",
+
+    "backpack.camping.name" : "Mochila para acampar",
+    "backpack.camping.description" : "Una mochila civil más grande, que suelen utilizar los excursionistas y campistas cuando salen a explorar. Sus capacidades de transporte son igualmente útiles en la Zona, aunque todavía carece de espacio de almacenamiento para los viajes largos y difíciles que tan a menudo emprenden los Stalkers.",
+
+    "backpack.travel.name" : "Mochila de viaje",
+    "backpack.travel.description" : "Una mochila espaciosa, incluso para los estándares de la Zona, diseñada para ofrecer la máxima relación comodidad:capacidad. Dispone de mucho espacio de almacenamiento para recorridos de cualquier longitud por toda la Zona.",
+
+    "backpack.combat.name" : "Mochila de combate",
+    "backpack.combat.description" : "Una mochila resistente, ajustada y bien mantenida. Diseñado para su uso en operaciones militares extendidas en la Zona y diseñado para máxima comodidad, capacidad y reducción de peso.",
+
+    "backpack.tourist.name" : "Mochila Turística",
+    "backpack.tourist.description" : "Una mochila casi cómicamente grande, con espacio más que suficiente para cualquier cosa. Apodadas mochilas 'turísticas', ya que a menudo las adornan los temerarios y ricos turistas de la Zona que sobreestiman su propia resistencia y pronto se desploman bajo el peso de su equipo.",
+    
+    "wallet.name" : "Cartera",
+    "wallet.description" : "Una pequeña cartera de piel diseñada para guardar dinero y varias tarjetas pequeñas."
+}

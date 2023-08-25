@@ -1,0 +1,26 @@
+{
+    "ak74m.name" : "AK-74m",
+    "ak74m.description" : "El AK-74m es la versión modernizada del AK-74 de 1974. Se hicieron numerosas piezas más livianas y confiables, y el arma ahora cuenta con una culata de poliamida rellena de vidrio que se puede plegar hacia la izquierda.\n\nAl tener una recámara para munición de 5,45 x 39 mm, el AK-74m permite al usuario llevar más munición por el mismo peso que los cartuchos más antiguos y pesados, manteniendo al mismo tiempo excelentes propiedades balísticas.\n\nEstos rifles se pueden encontrar en todas partes dentro de la Zona, ya que el diseño resistente y la fácil disponibilidad de piezas los hace increíblemente confiables, incluso en entornos extraños y hostiles.",
+    
+    "asval.name" : "AS Val",
+    "asval.description" : "Completado por primera vez en 1985, el AS Val tiene una recámara para el proyectil subsónico de 9x39 mm y cuenta con un supresor integrado. El supresor reduce efectivamente el fogonazo y el impacto del arma, lo que hace que su poder de frenado efectivo sea poco conocido.\n\nA pesar de la naturaleza subsónica de las balas que dispara, el AS Val es capaz de penetrar la mayoría de las armaduras y detendrá a los mutantes en sus huellas. Sin embargo, el alcance efectivo del rifle se ve afectado como resultado de la menor velocidad de salida.\n\nEl disparo más silencioso del rifle, combinado con su poder de frenado efectivo, lo convierte en un arma muy buscada en la Zona. Como resultado, el arma suele tener una gran demanda y es bastante cara.",
+
+    "deserteagle.name" : "Desert Eagle",
+    "deserteagle.description" : "La Desert Eagle es una pistola semiautomática que funciona con gas conocida por alojar el .50 Action Express, el cartucho más grande de cualquier pistola autocargable alimentada por cargador. El arma se ha ganado una reputación entre los fanáticos del espectáculo debido al atractivo generalizado que ha tenido su diseño.\n\nSin embargo, en la Zona, la Desert Eagle es buscada por diferentes razones. La bala .50 Action Express, normalmente demasiado grande y costosa para ser de uso práctico, encuentra un nicho para penetrar casi cualquier armadura y destruir cualquier monstruosidad que la Zona pueda arrojarte.",
+
+    "fort17.name" : "Fort 17",
+    "fort17.description" : "La Fort 17, una pistola semiautomática de diseño ucraniano, es similar a la Fort 12, pero es mucho más liviana en comparación.\n\nLa robustez y confiabilidad general de la pistola combinadas con el precio muy asequible la convierten en una competidora para la mayoría Pistola popular en la Zona.",
+
+    "rpg7.name" : "RPG-7",
+    "rpg7.description" : "El RPG-7 es un lanzagranadas portátil, reutilizable, no guiado, antitanque y propulsado por cohete, que se lanza desde el hombro. La robustez, simplicidad, bajo costo y efectividad del RPG-7 lo han convertido en el arma antiblindaje más utilizada en el mundo, y esto sigue siendo así en la Zona.\n\nNingún blindaje puede resistir un impacto directo de un juego de rol, y lo mismo ocurre con cualquier mutante que ofrezca la Zona. Por este motivo, hacerse con una de estas armas puede resultar muy complicado, debido al estricto control de su suministro y a su consiguiente elevado precio.",
+
+    "saiga12.name" : "Saiga-12",
+    "saiga12.description" : "La Saiga-12 es una escopeta semiautomática alimentada por cargador inspirada en la serie de rifles Kalashnikov, que ofrece excelente confiabilidad y manejo. Popular como arma de caza en los mercados civiles, la Saiga-12 llena un nicho similar en la Zona.\n\nLa rápida entrega de proyectiles de calibre 12 que ofrece el diseño alimentado por cargador hace que esta arma sea muy adecuada para la caza de mutantes en la Zona, capaz de para despachar a la mayoría de las criaturas con el mínimo esfuerzo.",
+
+    "svd.name" : "SVD",
+    "svd.description" : "El SVD es un rifle de tirador semiautomático con recámara en el cartucho de 7,62 x 54 mm, desarrollado en la Unión Soviética y producido en masa por primera vez en 1963. El SVD proporciona excelentes capacidades de combate de largo alcance, con un alto grado de precisión y confiabilidad. . El potente cartucho de 7,62 x 54 mm ofrece un excelente poder de frenado y una gran penetración, lo que convierte al SVD en una opción destacada entre los tiradores Stalkers.\n\nComo resultado, el SVD es una opción popular en la Zona cuando se trata de objetivos blindados, pero se vuelve difícil de manejar al luchar. los mutantes más ágiles que ofrece la Zona.",
+
+    "toz34.name" : "TOZ-34",
+    "toz34.description" : "Producida por primera vez en 1964, la TOZ-34 es una escopeta de doble cañón calibre 12. Hubo un tiempo en que estas eran las escopetas de caza más populares en la Unión Soviética y, aunque su reputación de caza continúa en la Zona, no están preparadas para nada más que aventuras preliminares en las afueras de la Zona debido a su diminuta capacidad de munición.\n \nA pesar de tener solo dos disparos por recarga, el TOZ-34 es increíblemente confiable y extraordinariamente barato, lo que lo convierte en un elemento básico de la Zona a pesar de su aparente falta de potencia de fuego."
+
+}
