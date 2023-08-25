@@ -1,0 +1,10 @@
+{
+    "leatherjacket.name" : "Chaqueta de cuero",
+    "leatherjacket.description" : "Un sello distintivo de cualquier novato en la Zona, la chaqueta de cuero ofrece muy poca protección contra mutantes, anomalías o radiación. Muchos Stalkers consideran que usar uno de estos es el equivalente a estar desnudo, pero al menos esto te mantendrá abrigado.",
+
+    "mediumarmor.name" : "Traje de Stalker",
+    "mediumarmor.description" : "Una combinación eficaz de un chaleco antibalas militar ligero y un traje de tela engomado. Está reforzado con placas de kevlar insertadas y proporciona una buena protección contra disparos débiles, manteniendo al mismo tiempo una protección apreciable contra anomalías y radiación.",
+
+    "exoarmor.name" : "Exoesqueleto",
+    "exoarmor.description" : "Un prototipo de exoesqueleto experimental producido por primera vez por el ejército. A pesar de que nunca se produjo en masa debido a su costo exorbitante y numerosos defectos de diseño, todavía tienen una gran demanda dentro de la Zona. Ofrecen una protección inigualable contra garras, disparos, fragmentación, anomalías y radiación.\n\nEstos trajes además otorgan al usuario un nivel de fuerza casi sobrenatural, aumentando enormemente el peso máximo que pueden transportar y reduciendo la fatiga de largas caminatas por toda la Zona y mejorando sus capacidades cuerpo a cuerpo.\n\nAlgunos trajes experimentales incluso introducen una dosis constante de productos químicos en el vapor de sangre del usuario para mantener la efectividad del combate."
+}

@@ -1,0 +1,7 @@
+{
+    "bolt.name" : "Tornillo",
+    "bolt.description" : "Un humilde tornillo, un residente permanente de cada arsenal de Stalkers.\n\nAl explorar campos de anomalías, arrojar un pequeño objeto en medio de ellos puede ayudar a revelar sus ubicaciones exactas o a encontrar un camino despejado para que lo atraviese el Stalker que realiza prospecciones.",
+
+    "grenade.f1.name" : "F1 Granada",
+    "grenade.f1.description" : "La F1 rusa es una granada defensiva de fragmentación antipersonal, desarrollada durante la Segunda Guerra Mundial y basada en la granada F1 francesa.\n\nDebido a sus bajos costos de fabricación y sus poderosas propiedades antipersonal, ha permanecido en servicio hasta la actualidad. La granada encuentra un buen nicho en la Zona, siendo excelente para lidiar con Stalkers enemigos así como con cualquier mutante desafortunado.\n\nLa granada tiene una mecha de 4 segundos, que se activa cuando se suelta la cuchara."
+}

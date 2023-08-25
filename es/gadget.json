@@ -1,0 +1,7 @@
+{
+    "detector.echo.name" : "Detector de eco",
+    "detector.echo.description" : "Uno de los primeros dispositivos diseñados específicamente para detectar los artefactos que produce la Zona, el Echo Detector es capaz de detectar partículas anómalas que pasan a través de una cámara especialmente diseñada dentro del cuerpo.\n\nAunque se considera obsoleto según los estándares modernos, el Echo Detector puede medir la distancia al artefacto más cercano, que se comunica mediante la frecuencia de los pitidos que emite el dispositivo.\n\nTambién viene equipado con un contador Geiger incorporado.\n\n(¡ACTUALMENTE NO IMPLEMENTADO!)",
+
+    "pda.name" : "PDA",
+    "pda.description" : "Un Asistente Digital Personal o 'PDA' es un dispositivo de bolsillo que abarca todo lo que un Stalker, similar a una computadora, debería necesitar dentro de la Zona.\n\nAunque muchos preferirían su teléfono móvil, la mayoría de los dispositivos electrónicos civiles son propensos a fallar debido al enorme interferencia eléctrica que se encuentra a menudo al explorar la Zona. Como resultado, estos dispositivos PDA están especialmente diseñados para resistir este tipo de abuso y ser tan resistentes como cualquier otro equipo que tenga un Stalker.\n\n(¡ACTUALMENTE NO IMPLEMENTADO!)"
+}

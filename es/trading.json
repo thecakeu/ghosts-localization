@@ -1,0 +1,14 @@
+{
+    "trade.outgoing" : "Tus cosas",
+    "trade.incoming" : "Artículos comerciales",
+    "trade.complete" : "Comercio completo",
+    "trade.playermoney" : "Tu dinero",
+    "trade.moneyaftertrade" : "Post-negociación",
+    "trade.cantafford" : "¡No puedo permitirme el lujo!",
+    "trade.cantfit" : "¡No caben artículos!",
+    "trade.value" : "Valor",
+    "trade.netvalue" : "Valor neto",
+    "trade.playerpays" : "Tu pagas",
+    "trade.playerpaid" : "Tu recives",
+    "trade.clear" : "Despejar"
+}

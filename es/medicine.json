@@ -1,0 +1,10 @@
+{
+    "bandage.name" : "Vendaje",
+    "bandage.description" : "Una gasa medicinal que detiene instantáneamente un sangrado leve, pero que requerirá más de una para detener hemorragias graves. Es una buena idea llevar algunas vendas para las excursiones a territorios donde uno se enfrentará a mucha oposición.",
+
+    "medkit.name" : "Botiquín",
+    "medkit.description" : "Un botiquín multiusos estandarizado producido dentro de la Zona, útil para tratar heridas de todo tipo: heridas, hematomas, quemaduras y envenenamientos.\n\nSiempre en demanda y nunca hay suficientes para todos, son imprescindibles para cualquier Stalker, aunque esto es El menos potente de los tipos de botiquines que se encuentran en la Zona.",
+
+    "booster.name" : "Subidon",
+    "booster.description" : "Una jeringa llena con una combinación de epinefrina y otros estímulos de combate, esto aumentará temporalmente la conciencia, disminuirá la fatiga y aumentará las habilidades atléticas generales a costa de posibles daños respiratorios y circulatorios. Si bien es posible que tenga un valor incalculable, se debe tener cuidado de no confiar demasiado en el medicamento, ya que los efectos secundarios son potentes y de acción rápida."
+}
