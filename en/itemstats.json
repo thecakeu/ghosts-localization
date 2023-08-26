@@ -86,5 +86,10 @@
     "stats.weapon.automatic.description" : "Is the gun automatic or not.",
 
     "stats.item.storage" : "Storage Slots",
-    "stats.item.storage.description" : "How many slots total the storage for this item has."
+    "stats.item.storage.description" : "How many slots total the storage for this item has.",
+
+    "stats.consumable.usetime" : "Use Time",
+    "stats.consumable.usetime.description" : "How long in seconds it takes to use the item. Note that its effects may apply before this time is finished.",
+
+    "stats.consumable.usetime.instant" : "Instant"
 }
