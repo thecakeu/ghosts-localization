@@ -1,0 +1,10 @@
+{
+    "bandage.name" : "Verband",
+    "bandage.description" : "Ein medizinischer Verband, der leichte Blutungen sofort stillt, aber mehrere benötigt, um starke Blutungen zu stoppen. Es ist eine gute Idee, mehrere Verbände für Ausflüge in Gebiete mitzunehmen, in denen man mit viel Widerstand rechnen muss.",
+
+    "medkit.name" : "Verbandkasten",
+    "medkit.description" : "Ein standardisierter Mehrzweck-Verbandskasten, der in der Zone hergestellt wird und für die Behandlung von Wunden aller Art nützlich ist - Wunden, Prellungen, Verbrennungen und Vergiftungen.\n\n Da immer eine große Nachfrage besteht und es nie genug davon gibt, sind sie ein Muss für jeden Stalker, auch wenn sie von den in der Zone gefundenen Verbandskästen am wenigsten wirksam sind.",
+
+    "booster.name" : "Aufputschmittel",
+    "booster.description" : "Eine Spritze, die mit einer Kombination aus Epinephrin und anderen Kampfstimuli gefüllt ist, steigert vorübergehend das Bewusstsein, verringert die Müdigkeit und erhöht die allgemeinen sportlichen Fähigkeiten, allerdings auf Kosten möglicher Atem- und Kreislaufschäden. Auch wenn es möglicherweise von unschätzbarem Wert ist, sollte man sich nicht zu sehr auf die Droge verlassen, denn die Nebenwirkungen sind stark und wirken schnell."
+}

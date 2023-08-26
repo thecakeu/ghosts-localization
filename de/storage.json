@@ -1,0 +1,19 @@
+{
+    "backpack.name" : "Rucksack",
+    "backpack.description" : "Ein kleiner, ziviler Rucksack mit völlig unzureichendem Stauraum für Erkundungen in der Zone.",
+
+    "backpack.camping.name" : "Campingrucksack",
+    "backpack.camping.description" : "Ein größerer ziviler Rucksack, der häufig von Wanderern und Campern auf ihren Erkundungstouren verwendet wird. Seine Trageeigenschaften sind in der Zone ebenso nützlich, auch wenn er nicht genug Stauraum für die langen, schwierigen Reisen bietet, die Stalker so oft unternehmen.",
+
+    "backpack.travel.name" : "Reiserucksack",
+    "backpack.travel.description" : "Ein geräumiger Rucksack, selbst für Zone-Standards, entwickelt für ein maximales Verhältnis von Komfort und Kapazität. Er bietet viel Stauraum für Wanderungen jeder Länge in der Zone.",
+
+    "backpack.combat.name" : "Kampfrucksack",
+    "backpack.combat.description" : "Ein robuster, eng anliegender und gut erhaltener Rucksack. Entwickelt für den Einsatz bei ausgedehnten Militäreinsätzen in der Zone und zugeschnitten auf maximalen Komfort, Kapazität und Gewichtsreduktion.",
+
+    "backpack.tourist.name" : "Touristenrucksack",
+    "backpack.tourist.description" : "Ein fast schon komisch großer Rucksack, der mehr als genug Platz für alles bietet. Man nennt ihn 'Touristenrucksack', weil er oft von den tollkühnen, reichen Zonentouristen getragen wird, die ihre eigene Ausdauer überschätzen und bald unter dem Gewicht ihrer Ausrüstung zusammenbrechen.",
+    
+    "wallet.name" : "Geldbeutel",
+    "wallet.description" : "Ein kleines Lederportemonnaie, das für Geld und verschiedene kleine Kärtchen gedacht ist."
+}

@@ -1,0 +1,22 @@
+{
+    "12x70.name" : "12x70 Buckshot!",
+    "12x70.description" : "Standard Kaliber 12 gefüllt mit 6-mm-Schrot. Wahrscheinlich die verbreitetste Munition in der Zone. Ihre Wirkung ist aus nächster Nähe tödlich, aber die Kugeln haben fast keine Durchschlagskraft, was sie zu einer schwachen Option gegen Panzerung macht.",
+
+    "9x18.name" : "9x18mm FMJ",
+    "9x18.description" : "Ein Standardgeschoss niedrigen Kalibers, das in Handfeuerwaffen und Maschinenpistolen verwendet wird. Das ummantelte Geschoss hat gute ballistische Eigenschaften und lässt sich leicht herstellen, was es zu einer beliebten Munitionswahl in der Zone macht.\n\nEffektiv gegen die meisten Panzerungen.",
+
+    "9x39.name" : "9x39mm AP",
+    "9x39.description" : "Ein Unterschallgeschoss mit gehärtetem, panzerbrechendem Kern. Trotz der geringen Geschwindigkeit des Geschosses hat es eine beträchtliche Stoppwirkung, da es in der Lage ist, 2 mm Stahl auf 500 m zu durchdringen. Es ist in den Ländern des Warschauer Pakts beliebt und hat sich in der Zone einen Namen wegen seiner Kostengünstigkeit gemacht.",
+
+    "5x45x39.name" : "5.45x39mm FMJ",
+    "5x45x39.description" : "Eine randlose Patrone mit Flaschenhals und Mantelgeschoss. Trotz des geringen Gewichts des Geschosses erreicht es eine hohe Geschwindigkeit, was es selbst gegen leicht gepanzerte Ziele außergewöhnlich tödlich macht. Auf große Entfernungen hat sie jedoch Schwierigkeiten, mehr als die schwächste Panzerung zu durchdringen.",
+
+    "7x62x54.name" : "7.62x54mm FMJ",
+    "7x62x54.description" : "Eine Gewehrpatrone mit Rand, die ursprünglich 1891 hergestellt wurde und damit die zweitälteste noch im Einsatz befindliche Patrone ist. Die Patrone bietet hervorragende ballistische Eigenschaften, eine hohe Geschwindigkeit und eine gute Durchschlagskraft auf allen Entfernungen.\n\nAufgrund ihrer Beliebtheit und der daraus resultierenden erhöhten Nachfrage in der Zone ist sie teurer geworden als viele andere Patronen.",
+
+    "50cal.name" : ".50 AE",
+    "50cal.description" : "Die .50 Action Express ist eine der leistungsstärksten Pistolenpatronen, die es gibt. Sie ist vor allem für ihre Verwendung in der Desert Eagle bekannt.\n\nObwohl der Rückstoß fast schon lächerlich groß ist und nur wenige die Patrone in Gefechtssituation ernst nehmen, streben viele Stalker nach Waffen, die diese Munition verwenden, weil sie eine unübertroffene Stoppwirkung hat.\n\nSie zerreißt die meisten Rüstungen und Mutantenhäute, als wären sie nicht vorhanden.",
+
+    "rpg7.grenade.name" : "RPG-7-Granate",
+    "rpg7.grenade.description" : "Eine Granate, die mit einer Starttreibladung und einem Raketenmotor ausgestattet ist und nach dem Abfeuern eine durchschnittliche Geschwindigkeit von fast 300 m/s erreicht. Die Granate hat eine minimale Reichweite von 10 Metern, vor der die Granate nicht detoniert.\n\nDurch den Sprengstoff in der Granate eignet sie sich gut zur Zerstörung von gepanzerten Fahrzeugen sowie von Mutanten, die das Pech haben, in den Weg zu geraten."
+}

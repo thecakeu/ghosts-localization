@@ -1,0 +1,34 @@
+{
+    "stat.health.regeneration" : "Gesundheit",
+    "stat.bleedrecovery" : "Blutverlust",
+    "stat.radiationrecovery" : "Strahlung",
+    "stat.psychic.regeneration" : "Psy Gesundheit",
+
+    "stat.armswaymultiplier" : "Handhabung",
+
+    "stat.hunger.increaserate" : "Hunger",
+    "stat.thirst.increaserate" : "Durst",
+
+    "stat.temperature.highthreshold" : "Höchsttemperatur",
+    "stat.temperature.lowthreshold" : "Mindesttemperatur",
+
+    "stat.resistance.physical" : "Physischer Schutz",
+    "stat.resistance.ballistic" : "Ballistischer Schutz",
+    "stat.resistance.bludgeoning" :"Schlagwiderstand",
+    "stat.resistance.slashing" : "Schnittschutz",
+    "stat.resistance.explosion" : "Explosionsschutz",
+    "stat.resistance.fire" : "Feuerresistenz",
+    "stat.resistance.electric" : "Elektrischer Schutz",
+    "stat.resistance.chemical" : "Chemischer Schutz",
+    "stat.resistance.psychic" : "Psychischer Schutz",
+    "stat.resistance.radiation" : "Strahlenresistenz",
+
+    "stat.stamina.maximum" : "Maximale Ausdauer",
+    "stat.stamina.regeneration" : "Ausdauerregeneration",
+    "stat.stamina.costmultiplier" : "Ausdauerkosten",
+
+    "stat.movement.speedmult" : "Geschwindigkeit",
+    "stat.movement.jumpmult" : "Sprunghöhe",
+
+    "stat.carryweight" : "Tragelast"
+}

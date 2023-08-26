@@ -1,0 +1,7 @@
+{
+    "detector.echo.name" : "Echo-Melder",
+    "detector.echo.description" : "Als eines der ersten Geräte, das speziell für die Erkennung von Artefakten in der Zone entwickelt wurde, ist der Echo-Melder in der Lage, anomale Partikel aufzuspüren, die eine speziell konstruierte Kammer im Inneren des Gehäuses durchdringen. Auch wenn der Echo-Melder nach heutigen Maßstäben als veraltet gilt, kann er die Entfernung zum nächstgelegenen Artefakt messen, die durch die Frequenz der Pieptöne, die das Gerät abgibt, mitgeteilt wird.\n\n Er ist auch mit einem eingebauten Geigerzähler ausgestattet. n\n(ZURZEIT NICHT IMPLEMENTIERT!)",
+
+    "pda.name" : "PDA",
+    "pda.description" : "Ein Persönlicher Digitaler Assistent (PDA) ist ein Gerät im Taschenformat, das alles enthält, was ein Stalker in der Zone an Computerausrüstung benötigt.\n\nViele würden zwar ihr Mobiltelefon vorziehen, aber die meisten zivilen elektronischen Geräte sind aufgrund der enormen elektrischen Störungen, die bei der Erkundung der Zone häufig auftreten, anfällig für Fehlfunktionen. Daher wurden diese PDA-Geräte speziell entwickelt, um dieser Art von Belastung standzuhalten und genauso zuverlässig zu sein wie jedes andere Gerät, das ein Stalker besitzt.\n\n(ZURZEIT NICHT IMPLEMENTIERT!)"
+}

@@ -1,0 +1,10 @@
+{
+    "leatherjacket.name" : "Lederjacke",
+    "leatherjacket.description" : "Die Lederjacke ist das Markenzeichen eines jeden Neulings in der Zone und bietet nur sehr wenig Schutz vor Mutanten, Anomalien oder Strahlung. Für viele Stalker ist das Tragen einer solchen Jacke das Äquivalent zum Nacktsein, aber zumindest hält sie dich warm.",
+
+    "mediumarmor.name" : "Stalker-Anzug",
+    "mediumarmor.description" : "Eine effektive Kombination aus einer leichten militärischen kugelsicheren Weste und einem gummierten Stoffanzug. Sie ist mit eingearbeiteten Kevlarplatten verstärkt und bietet guten Schutz vor schwachem Beschuss, während sie gleichzeitig einen angemessenen Schutz vor Anomalien und Strahlung bietet.",
+
+    "exoarmor.name" : "Exoskelett",
+    "exoarmor.description" : "Ein experimenteller Prototyp eines Exoskeletts, der ursprünglich vom Militär hergestellt wurde. Obwohl sie aufgrund ihrer exorbitanten Kosten und zahlreicher Konstruktionsfehler nie in Serie produziert wurden, sind sie in der Zone immer noch sehr gefragt. Sie bieten unübertroffenen Schutz vor Krallen, Beschuss, Splittern, Anomalien und Strahlung.\n\nAußerdem verleihen diese Anzüge dem Träger ein fast übernatürliches Maß an Stärke, erhöhen das maximale Gewicht, das er tragen kann, verringern die Ermüdung von langen Fußmärschen durch die Zone und verbessern seine Nahkampffähigkeiten.\n\nEinige experimentelle Anzüge leiten sogar eine ständige Dosis Chemikalien in den Blutkreislauf des Trägers, um die Kampfkraft aufrechtzuerhalten."
+}
