@@ -1,0 +1,14 @@
+{
+    "trade.outgoing" : "Deine Gegenstände",
+    "trade.incoming" : "Händlergegenstände",
+    "trade.complete" : "Handel abschließen",
+    "trade.playermoney" : "Dein Geld",
+    "trade.moneyaftertrade" : "Nach dem Handel",
+    "trade.cantafford" : "Zu teuer!",
+    "trade.cantfit" : "Passt nicht!",
+    "trade.value" : "Wert",
+    "trade.netvalue" : "Nettowert",
+    "trade.playerpays" : "Du zahlst",
+    "trade.playerpaid" : "Du erhältst",
+    "trade.clear" : "Zurücksetzen"
+}

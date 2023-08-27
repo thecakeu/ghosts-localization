@@ -1,0 +1,10 @@
+{
+    "respirator.name" : "Atemschutzmaske",
+    "respirator.description" : "Eine Atemschutzmaske aus Gummi für den Notfall, die nicht für einen längeren Einsatz gedacht ist. Sie filtert zwar einige Giftstoffe und radioaktive Partikel aus der Atemluft, ist aber nicht annähernd so effektiv wie eine richtige Schutzausrüstung, da sie Augen und Gesicht den Elementen aussetzt.\n\n Sie bietet keinen physischen Schutz.\n\n Trotzdem ist sie besser als nichts. In der Zone gibt es keine Bettler, die man sich aussuchen kann.",
+
+    "gasmask.name" : "Gasmaske",
+    "gasmask.description" : "Eine Gasmaske aus Kunststoff und Gummi, die Chemikalien und radioaktive Partikel herausfiltert und gleichzeitig einen ausreichenden Schutz vor den Elementen bietet. Aufgrund der preiswerten Materialien und des einfachen Designs wird sie in der gesamten Zone sowohl von Neulingen als auch von Veteranen verwendet. Trotz ihrer Beliebtheit bietet sie jedoch nur sehr wenig Schutz im Kampf und ist für ein Feuergefecht schlecht geeignet.",
+
+    "exohelmet.name" : "Exo-Helm",
+    "exohelmet.description" : "Der Exo-Helm wurde für die Verwendung mit militärischen Prototyp-Exoskeletten entwickelt und ist mit fortschrittlichen chemischen und radiologischen Filtern sowie speziellen Belüftungssystemen ausgestattet, die das Atmen erleichtern. Eine Kombination aus Stahlplatten, Kohlefaserpolymeren und Titan-Gewebe sorgt dafür, dass der Helm einen hervorragenden Schutz vor Anomalien, Beschuss und Mutantenangriffen bietet. Er bietet sogar einen begrenzten Psi-Schutz, der allerdings noch als experimentell gilt."
+}

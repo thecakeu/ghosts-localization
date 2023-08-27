@@ -1,0 +1,90 @@
+{
+    "stats.ammo.damage" : "Schaden",
+    "stats.ammo.damage.description" : "Wie viel Schaden das Geschoss anrichtet, vorausgesetzt, das Ziel ist nicht gepanzert.",
+
+    "stats.ammo.penetration" : "Durchschlagskraft",
+    "stats.ammo.penetration.description" : "Reduziert den Rüstungswert des Ziels bei der Schadensberechnung um diesen Wert.",
+
+    "stats.ammo.muzzlevelocity" : "Mündungsgeschwindigkeit",
+    "stats.ammo.muzzlevelocity.description" : "Wie schnell das Geschoss in m/s fliegt. Der tatsächliche Wert wird durch die zum Abschuss verwendete Waffe verändert.",
+
+    "stats.ammo.bleedchance" : "Blutungswahrscheinlichkeit",
+    "stats.ammo.bleedchance.description" : "Die Wahrscheinlichkeit, dass das Ziel blutet, wenn es getroffen wird. Die Chance wird durch die Rüstung des Ziels verringert.",
+    "stats.ammo.bleedseverity" : "Blutungsschwere",
+    "stats.ammo.bleedseverity.description" : "Wie starke Blutungen werden verursacht, wenn das Geschoss erfolgreich Blutungen verursacht.",
+
+    "stats.armor.rating" : "Panzerungsgrad",
+    "stats.armor.rating.description" : "Bei der Schadensberechnung wird die Durchschlagskraft des Geschosses von deinem Panzerungsgrad abgezogen, bevor deine Panzerungswiderstandswerte angewendet werden. Ist die Durchschlagskraft des Geschosses höher, schützt dich deine Rüstung überhaupt nicht.",
+
+    "stats.armor.ballistic" : "Ballistik",
+    "stats.armor.ballistic.description" : "Wie viel Schadensreduktion diese Rüstung gegen Kugeln bietet. Der ballistische Wert der Rüstung gegenüber dem Geschoss, das dich trifft, beeinflusst, wie viel von diesem Wert gilt.",
+
+    "stats.armor.bludgeoning" : "Stumpf",
+    "stats.armor.bludgeoning.description" : "Wie viel Schadensreduktion gegen stumpfen Schaden diese Rüstung bietet. Dazu gehören bestimmte Mutanten Angriffe, sowie Prop Schaden und einige Nahkampfwaffen.",
+
+    "stats.armor.slashing" : "Schnitt",
+    "stats.armor.slashing.description" : "Wie viel Schadensreduktion gegen Schnittschaden diese Rüstung bietet. Dies schließt bestimmte Mutanten und einige Nahkampfwaffen ein.",
+
+    "stats.armor.explosion" : "Explosion",
+    "stats.armor.explosion.description" : "Wie viel Schadensreduktion gegen Explosionen diese Rüstung bietet. Dies gilt nicht für Splitter von Explosionen, die deine ballistischen Werte verwenden.",
+
+    "stats.armor.fire" : "Feuer",
+    "stats.armor.fire.description" : "Wie viel Schadensreduktion gegen Feuer diese Rüstung bietet. Wenn dieser Wert hoch genug ist, erleidest du keinen Umweltschaden durch entsprechende Anomaliefelder. Direkt in eines zu treten, ist wahrscheinlich immer noch eine schlechte Idee.",
+
+    "stats.armor.electric" : "Elektrisch",
+    "stats.armor.electric.description" : "Wie viel Schadensreduktion gegen Elektrizität diese Rüstung bietet. Wenn dieser Wert hoch genug ist, erleiden Sie keinen Umweltschaden durch entsprechende Anomalienfelder. Außerdem wird die elektronische Störung durch Anomalien reduziert.",
+
+    "stats.armor.chemical" : "Chemisch",
+    "stats.armor.chemical.description" : "Wie viel Schadensreduktion gegen chemische Gefahren diese Rüstung bietet. Wenn dieser Wert hoch genug ist, erleiden Sie keinen Umweltschaden durch entsprechende Anomalienfelder. Außerdem wird der Verlust der Haltbarkeit durch korrosive Umgebungen reduziert.",
+
+    "stats.armor.psychic" : "Psychisch",
+    "stats.armor.psychic.description" : "Wie viel Psy-Schadensreduktion gegen psychische Gefahren diese Rüstung bietet. Wenn dieser Wert hoch genug ist, werden Psy-Felder nicht mehr deine Psy-Gesundheit aufbrauchen. Dieser Wert ist selten.",
+
+    "stats.armor.radiation" : "Strahlung",
+    "stats.armor.radiation.description" : "Wie stark diese Rüstung die Strahlenbelastung reduziert. Wenn dieser Wert hoch genug ist, werden Strahlungsfelder Ihre Verstrahlung nicht mehr erhöhen. Sie schützt jedoch nicht vor Artefakten.",
+
+    "stats.armor.movespeed" : "Geschwindigkeit",
+    "stats.armor.movespeed.description" : "Multiplikator für die Bewegungsgeschwindigkeit, die diese Rüstung bietet.",
+
+    "stats.armor.jumpheight" : "Sprunghöhe",
+    "stats.armor.jumpheight.description" : "Multiplikator für die Sprunghöhe, die diese Rüstung bietet.",
+
+    "stats.armor.carryweight" : "Tragelast",
+    "stats.armor.carryweight.description" : "Wie viel zusätzliches Tragegewicht diese Rüstung zusätzlich zu deinem Grundtragegewicht verleiht.",
+
+    "stats.armor.staminacost" : "Ausdauerverbrauch",
+    "stats.armor.staminacost.description" : "Wie viel mehr/weniger Ausdauer du für diese Rüstung verbrauchst.",
+
+    "stats.armor.staminaregeneration" : "Ausdauerregeneration",
+    "stats.armor.staminaregeneration.description" : "Wie stark diese Rüstung deine Ausdauerregeneration erhöht/verringert.",
+
+    "stats.weapon.accuracy" : "Präzision",
+    "stats.weapon.accuracy.description" : "Wie genau die Waffe ist. 100% bedeutet genau null Streuung.",
+
+    "stats.weapon.rpm" : "Schuss/min",
+    "stats.weapon.rpm.description" : "Abgefeuerte Schusszahl pro Minute.",
+
+    "stats.weapon.recoil.vertical" : "Vertikaler Rückstoß",
+    "stats.weapon.recoil.vertical.description" : "Wie stark die Waffe beim Abfeuern vertikal ausschlägt. Ein höherer Rückstoß bedeutet eine größere Bewegung.",
+
+    "stats.weapon.recoil.horizontal" : "Horizontaler Rückstoß",
+    "stats.weapon.recoil.horizontal.description" : "Wie viel horizontalen Rückstoß die Waffe beim Abfeuern hat. Ein höherer Rückstoß bedeutet eine größere Bewegung.",
+
+    "stats.weapon.handling" : "Handhabung",
+    "stats.weapon.handling.description" : "Wie stark die Waffe beim Gebrauch schwankt. Eine bessere Handhabbarkeit führt zu einer geringeren Bewegung.",
+
+    "stats.weapon.ergonomics" : "Ergonomie",
+    "stats.weapon.ergonomics.description" : "Wie ausdauereffizient der Einsatz dieser Waffe ist. Höhere Ergonomie resultiert in weniger Ausdauerverbrauch.",
+
+    "stats.weapon.reliability" : "Zuverlässigkeit",
+    "stats.weapon.reliability.description" : "Die Zuverlässigkeit wirkt sich darauf aus, wie viel Haltbarkeit bei der Verwendung der Waffe verloren geht. Eine höhere Zuverlässigkeit bedeutet einen langsameren Verlust an Haltbarkeit.",
+
+    "stats.weapon.magazinecapacity" : "Magazin-Kapazität",
+    "stats.weapon.magazinecapacity.description" : "Wie viele Kugeln in das Magazin passen.",
+
+    "stats.weapon.automatic" : "Automatisch",
+    "stats.weapon.automatic.description" : "Ist die Waffe automatisch oder nicht.",
+
+    "stats.item.storage" : "Stauraum",
+    "stats.item.storage.description" : "Wie viel Stauraum dieser Gegenstand insgesamt hat."
+}

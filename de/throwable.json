@@ -1,0 +1,7 @@
+{
+    "bolt.name" : "Schraube",
+    "bolt.description" : "Die bescheidene Schraube, ein fester Bestandteil des Arsenals eines jeden Stalkers.n\nBei der Erkundung von Feldern mit Anomalien kann es hilfreich sein, einen kleinen Gegenstand in ihre Richtung zu werfen, um ihre genaue Position aufzudecken oder einen sicheren Weg zu finden, den der Stalker durchqueren kann.",
+
+    "grenade.f1.name" : "F1-Granate",
+    "grenade.f1.description" : "Die russische F1 ist eine Anti-Personen-Splittergranate, die während des Zweiten Weltkriegs entwickelt wurde und auf der französischen F1-Granate basiert.\n\nDank ihrer günstigen Herstellungskosten und ihrer starken Anti-Personen-Eigenschaften ist sie bis heute im Einsatz geblieben. Die Granate hat eine gute Nische in der Zone gefunden und eignet sich hervorragend für das Erledigen von gegnerischen Stalkern und unglücklichen Mutanten.\n\nDie Granate hat einen 4-Sekunden-Zünder, der aktiviert wird, wenn der Bügel losgelassen wird."
+}

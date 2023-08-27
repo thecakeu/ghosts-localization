@@ -1,0 +1,26 @@
+{
+    "ak74m.name" : "AK-74m",
+    "ak74m.description" : "Die AK-74m ist die modernisierte Version der AK-74 von 1974. Zahlreiche Komponenten wurden leichter und zuverlässiger konstruiert, und die Waffe verfügt nun über einen glasfaserverstärkten Polyamidschaft, der nach links geklappt werden kann.\n\nDa die AK-74m für 5,45x39mm-Munition ausgelegt ist, kann der Benutzer bei gleichem Gewicht mehr Munition mit sich führen als bei älteren, größeren Patronen, wobei die hervorragenden ballistischen Eigenschaften erhalten bleiben.\n\nMan kann diese Gewehre überall in der Zone finden, da die robuste Konstruktion und die leichte Verfügbarkeit von Teilen sie unglaublich zuverlässig macht, selbst in der fremden und unsicheren Umgebung.",
+    
+    "asval.name" : "AS Val",
+    "asval.description" : "Die 1985 erstmals produzierte AS Val ist für die Unterschallmunition 9x39 mm ausgelegt und verfügt über einen integrierten Schalldämpfer. Der Schalldämpfer reduziert effektiv das Mündungsfeuer und den Mündungsknall des Gewehrs, was seine effektive Stoppwirkung eher mäßig macht.\n\nTrotz des Unterschallcharakters der verschossenen Kugeln ist die AS Val in der Lage, die meisten Panzerungen zu durchdringen und Mutanten auf der Stelle zu stoppen. Allerdings leidet die effektive Reichweite des Gewehrs unter der geringeren Mündungsgeschwindigkeit.\n\nDie geringere Schallemissionen des Gewehrs in Verbindung mit seiner effektiven Stoppwirkung macht es zu einer begehrten Waffe in der Zone. Infolgedessen ist die Waffe oft sehr gefragt und recht teuer.",
+
+    "deserteagle.name" : "Desert Eagle",
+    "deserteagle.description" : "Die Desert Eagle ist eine gasbetriebene, halbautomatische Pistole, die dafür bekannt ist, dass sie die .50 Action Express, die größte Patrone unter den Selbstladepistolen mit Magazin, aufnehmen kann. Die Waffe hat sich aufgrund des beliebten Designs einen Ruf bei Angebern erworben.\n\n In der Zone ist die Desert Eagle jedoch aus anderen Gründen begehrt. Die .50 Action Express-Patrone, die normalerweise zu groß und zu teuer ist, um von praktischem Nutzen zu sein, findet eine Nische, um fast jede Panzerung zu durchdringen und alle Monstrositäten zu vernichten, die einem in der Zone begegnen.",
+
+    "fort17.name" : "Fort 17",
+    "fort17.description" : "Die Fort 17 ist eine halbautomatische Pistole ukrainischer Bauart, die der Fort 12 ähnelt, aber im Vergleich viel leichter ist. Die Robustheit und allgemeine Zuverlässigkeit der Pistole in Verbindung mit dem sehr günstigen Preis machen sie zu einem Anwärter auf die beliebteste Pistole der Zone.",
+
+    "rpg7.name" : "RPG-7",
+    "rpg7.description" : "Die RPG-7 ist ein tragbarer, wiederverwendbarer, ungelenkter, schultergestützter Panzerabwehrwaffe mit Raketenantrieb. Die Robustheit, die Einfachheit, die niedrigen Kosten und die Effektivität der RPG-7 haben sie zur meistgenutzten Panzerabwehrwaffe der Welt gemacht, und das ist auch in der Zone so geblieben.\n\n Keine Panzerung kann einem direkten Treffer einer RPG standhalten, und das Gleiche gilt für alle Mutanten, die die Zone anbietet. Aus diesem Grund kann es sehr schwierig sein, eine dieser Waffen in die Hände zu bekommen, da ihr Vorrat streng kontrolliert wird und sie entsprechend teuer sind.",
+
+    "saiga12.name" : "Saiga-12",
+    "saiga12.description" : "Die Saiga-12 ist eine russische Selbstladeflinte mit Magazinzuführung nach dem Vorbild der Kalaschnikow-Gewehrserie, die sich durch hervorragende Zuverlässigkeit und Handhabung auszeichnet. Die Saiga-12 ist in zivilen Märkten als Jagdwaffe beliebt und füllt in der Zone eine ähnliche Nische. Die hohe Rate, mit der 12-Kaliber-Patronen aus dem Magazin verschossen werden können, macht diese Waffe zu einem idealen Werkzeug für die Mutantenjagd in der Zone, da sie die meisten Kreaturen mit minimalem Aufwand erledigen kann.",
+
+    "svd.name" : "SVD",
+    "svd.description" : "Die SVD ist ein halbautomatisches Scharfschützengewehr mit dem Kaliber 7,62 x 54 mm, das in der Sowjetunion entwickelt und 1963 erstmals in Serie produziert wurde. Die SVD bietet hervorragende Fähigkeiten für den Einsatz auf große Entfernungen und zeichnet sich durch ein hohes Maß an Präzision und Zuverlässigkeit aus. Die leistungsstarke 7,62x54-mm-Patrone bietet eine exzellente Stoppwirkung und eine hohe Durchschlagskraft, was die SVD zu einer beliebten Wahl unter Stalkern macht.\n\nDaher ist die SVD in der Zone eine beliebte Wahl, wenn es um gepanzerte Ziele geht, wird aber unhandlich, wenn es um den Kampf gegen die wendigeren Mutanten in der Zone geht.",
+
+    "toz34.name" : "TOZ-34",
+    "toz34.description" : "Die TOZ-34 wurde erstmals 1964 hergestellt und ist eine doppelläufige 12-kalibrige Flinte. Einst war sie die beliebteste Jagdflinte in der Sowjetunion, und obwohl sie in der Zone nach wie vor einen guten Ruf für die Jagd genießt, ist sie aufgrund ihrer geringen Munitionskapazität für mehr als nur vorläufige Ausflüge in die Außenbezirke der Zone ungeeignet.\n\nTrotz der Tatsache, dass die TOZ-34 nur zwei Patronen hält, ist sie unglaublich zuverlässig und außerordentlich billig. Daher ist sie trotz ihrer offensichtlichen Feuerkraftschwächen aus der Zone nicht wegzudenken."
+
+}
