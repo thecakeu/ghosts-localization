@@ -1,0 +1,22 @@
+{
+    "mutant.blinddog.name" : "Blind Dog",
+    "mutant.bloodsucker.name" : "Blood Sucker",
+    "mutant.boar.name" : "Boar",
+    "mutant.burer.name" : "Burer",
+    "mutant.cat.name" : "Cat",
+    "mutant.chimera.name" : "Chimera",
+    "mutant.controller.name" : "Controller",
+    "mutant.flesh.name" : "Flesh",
+    "mutant.fleshalpha.name" : "Flesh Alpha",
+    "mutant.fracture.name" : "Fracture",
+    "mutant.karlik.name" : "Karlik",
+    "mutant.poltergeist.name" : "Poltergeist",
+    "mutant.pyrogeist.name" : "Pyrogeist",
+    "mutant.pseudodog.name" : "Pseudodog",
+    "mutant.pseudogiant.name" : "Pseudogiant",
+    "mutant.psydog.name" : "Psydog",
+    "mutant.psysucker.name" : "Psysucker",
+    "mutant.snork.name" : "Snork",
+    "mutant.tushkano.name" : "Tushkano",
+    "mutant.zombie.name" : "Zombie"
+}

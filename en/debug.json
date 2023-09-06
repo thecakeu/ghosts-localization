@@ -58,6 +58,9 @@
 
     "debug.category.commands" : "Commands",
     "debug.category.spawnable" : "Spawnable",
+    "debug.category.spawnable.mutants" : "Mutants",
+    "debug.category.spawnable.anomalies" : "Anomalies",
+    "debug.category.spawnable.entities" : "Entities",
     "debug.category.items" : "Items",
 
     "debug.subcategory.cheats" : "Cheats",
