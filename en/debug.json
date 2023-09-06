@@ -1,0 +1,67 @@
+{
+    "debug.command.god" : "God Mode",
+    "debug.command.god.description" : "Become invincible.",
+
+    "debug.command.respawn" : "Respawn",
+    "debug.command.respawn.description" : "Respawn yourself as if you had died.",
+
+    "debug.command.resetstats" : "Reset Stats",
+    "debug.command.resetstats.description" : "Reset your stats.",
+
+    "debug.command.heal" : "Heal",
+    "debug.command.heal.description" : "Heal yourself to full and remove all debuffs and negative conditions.",
+
+    "debug.command.restartround" : "Restart Round",
+    "debug.command.restartround.description" : "If in a round based gamemode, restart the round.",
+
+    "debug.command.infiniteammo" : "Infinite Ammo",
+    "debug.command.infiniteammo.description" : "Give yourself unlimited ammo.",
+
+    "debug.command.ghost" : "Ghost Mode",
+    "debug.command.ghost.description" : "Enemies will be unable to target you.",
+
+    "debug.command.toggleai" : "Toggle AI",
+    "debug.command.toggleai.description" : "Toggle on/off the enemy AI.",
+
+    "debug.command.toggleevents" : "Toggle Events",
+    "debug.command.toggleevents.description" : "Turn intensity events on/off.",
+
+    "debug.command.debugbullets" : "Debug Bullets",
+    "debug.command.debugbullets.description" : "Turn on/off bullet debug mode.",
+
+    "debug.command.clearnpcs" : "Clear NPCs",
+    "debug.command.clearnpcs.description" : "Delets all NPCs.",
+
+    "debug.command.clearanomalies" : "Clear Anomalies",
+    "debug.command.clearanomalies.description" : "Delete all anomalies from the map.",
+
+    "debug.command.suicide" : "Suicide",
+    "debug.command.suicide.description" : "Kills your player character.",
+
+    "debug.command.killtarget" : "Kill Target",
+    "debug.command.killtarget.description" : "Kills whatever you're looking at.",
+
+    "debug.command.deletetarget" : "Delete Target",
+    "debug.command.deletetarget.description" : "Delete whatever you're looking at.",
+
+    "debug.command.dawn" : "Dawn",
+    "debug.command.dawn.description" : "Set the time of day to 7am.",
+
+    "debug.command.day" : "Day",
+    "debug.command.day.description" : "Set the time of day to 12am",
+
+    "debug.command.dusk" : "Dusk",
+    "debug.command.dusk.description" : "Set the time of day to 6pm.",
+
+    "debug.command.night" : "Night",
+    "debug.command.night.description" : "Set the time of day to 11pm.",
+
+    "debug.category.commands" : "Commands",
+    "debug.category.spawnable" : "Spawnable",
+    "debug.category.items" : "Items",
+
+    "debug.subcategory.cheats" : "Cheats",
+    "debug.subcategory.timemanagement" : "Time Management",
+    "debug.subcategory.roundmanagement" : "Round Management",
+    "debug.subcategory.debugging" : "Debugging"
+}
