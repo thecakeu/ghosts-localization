@@ -56,6 +56,11 @@
     "debug.command.night" : "Night",
     "debug.command.night.description" : "Set the time of day to 11pm.",
 
+    "debug.command.timespeed10" : "10x Speed",
+    "debug.command.timespeed-10" : "-10x Speed",
+    "debug.command.timespeed1" : "Normal Speed",
+    "debug.command.timespeed0" : "Freeze Time",
+
     "debug.category.commands" : "Commands",
     "debug.category.spawnable" : "Spawnable",
     "debug.category.spawnable.mutants" : "Mutants",
