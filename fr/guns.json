@@ -1,0 +1,26 @@
+{
+    "ak74m.name" : "AK-74m",
+    "ak74m.description" : "The AK-74m is the modernized version of the 1974 AK-74. Numerous parts were made lighter and more reliabile, and the weapon now features a glass-filled polyamide stock that can be folded to the left.\n\nBy being chambered for 5.45x39mm ammo, the AK-74m allows the user to carry more ammo for the same weight as older, heavier cartrides, while maintaining excellent ballistic properties.\n\nThese rifles can be found everywhere within the Zone, as the rugged design and easy availability of parts makes them incredibly reliable, even in the alien and hostile environment.",
+    
+    "asval.name" : "AS Val",
+    "asval.description" : "First completed in 1985, the AS Val is chambered for the 9x39mm subsonic round and features an integrated suppressor. The suppressor effectively reduces muzzle flash and muzzle report of the gun, which makes its effective stopping power rather underspoken for.\n\nDespite the subsonic nature of the rounds it fires, the AS Val is capable of penetrating most armors and will halt mutants in their tracks. However, the effective range of the rifle does suffer as a result of the lower muzzle velocity.\n\nThe quieter report of the rifle, combined with its effective stopping power, makes it a sought after weapon in the Zone. As a result, the weapon is often in high demand and quite expensive.",
+
+    "deserteagle.name" : "Desert Eagle",
+    "deserteagle.description" : "The Desert Eagle is a gas-operated, semi-automatic pistol known for chambering the .50 Action Express, the largest cartridge of any magazine-fed, self-loading pistol. The weapon has earned itself a reputation for showboaters due to the widespread appeal its design has had.\n\nHowever, in the Zone, the Desert Eagle is sought after for different reasons. The .50 Action Express round, ordinarily too large and costly to be of practical use, finds a niche in penetrating almost any armor and obliterating any monstrosities the Zone can throw at you.",
+
+    "fort17.name" : "Fort 17",
+    "fort17.description" : "A semi-automatic pistol of Ukranian design, the Fort 17 is similar to the Fort 12 but is much lighter by comparison.\n\nThe sturdiness and overall reliability of the pistol combined with the very affordable price point makes this a contender for the most popular pistol in the Zone.",
+
+    "rpg7.name" : "RPG-7",
+    "rpg7.description" : "The RPG-7 is a portable, reusable, unguided, shoulder-launched, anti-tank, rocket-propelled grenade launcher. The ruggedness, simplicity, low cost, and effectiveness of the RPG-7 has made it the most widely used anti-armor weapon in the world, and this has remained true in the Zone.\n\nNo armor can withstand a direct hit from an RPG, and the same is true for any mutant the Zone offers. Because of this, getting your hands on one of these weapons can be very difficult, due to strict control of their supply and their subsequently expensive price.",
+
+    "saiga12.name" : "Saiga-12",
+    "saiga12.description" : "The Saiga-12 is a magazine fed, semi-automatic shotgun patterned after the Kalashnikov series of rifles, offering excellent reliability and handling. Popular as a hunting weapon in civilian markets, the Saiga-12 fills a similar niche in the Zone.\n\nThe fast delivery of 12-gauge shells the magazine fed design offers makes this gun well suited to mutant hunting in the Zone, able to dispatch most creatures with minimal effort.",
+
+    "svd.name" : "SVD",
+    "svd.description" : "The SVD is a semi-automatic designated marksman rifle chambered in the fully-powered 7.62x54mm cartridge, developed in the Soviet Union and first mass produced in 1963. The SVD provides excellent long-range engagement capabilities, with a high degree of accuracy and reliability. The powerful 7.62x54mm cartridge offers excellent stopping power and great penetration, making the SVD a prominent choice among marksmen Stalkers.\n\nAs a result, the SVD is a popular choice in the Zone when dealing with armored targets, but becomes unwieldy when fighting the more nimble mutants that the Zone offers.",
+
+    "toz34.name" : "TOZ-34",
+    "toz34.description" : "First produced in 1964, the TOZ-34 is a 12-gauge, double barreled shotgun. At one time these were the most popular hunting shotgun in the Soviet Union, and while their reputation for hunting continues in the Zone, they're ill fitted for anything more than preliminary ventures into the Zones outskirts due to their diminuitive ammo capacity.\n\nDespite only having two shots per reload, the TOZ-34 is incredibly reliable and extraordinarily cheap, making it a staple of the Zone despite its apparent lack of firepower."
+
+}

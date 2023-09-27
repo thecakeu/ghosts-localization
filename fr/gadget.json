@@ -1,0 +1,7 @@
+{
+    "detector.echo.name" : "Echo Detector",
+    "detector.echo.description" : "One of the first devices designed specifically to detect the artifacts the Zone produces, the Echo Detector is capable of detecting anomalous particles that pass through a specially designed chamber inside the body.\n\nThough considered outdated by modern standard, the Echo Detector can measure the distance to the nearest artifact, which is communicated by the frequency of beeps the device makes.\n\nIt also comes equipped with a built in geiger counter.\n\n(CURRENTLY UNIMPLEMENTED!)",
+
+    "pda.name" : "PDA",
+    "pda.description" : "A Personal Digital Assistant or 'PDA' is a pocket sized device that encompasses everything computer-like a Stalker should need within the Zone.\n\nWhile many would prefer their mobile phone, most civilian electronic devices are prone to malfunction due to the huge electrical interference that is often encountered when exploring the Zone. As a result, these PDA devices are specially designed to withstand this kind of abuse and be just as rugged as any other piece of gear a Stalker has.\n\n(CURRENTLY UNIMPLEMENTED!)"
+}

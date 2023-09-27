@@ -1,0 +1,95 @@
+{
+    "stats.ammo.damage" : "Damage",
+    "stats.ammo.damage.description" : "How much damage the bullet does, assuming the target has no armor.",
+
+    "stats.ammo.penetration" : "Penetration",
+    "stats.ammo.penetration.description" : "Will reduce the targets armor rating in the damage calculation by this ammount.",
+
+    "stats.ammo.muzzlevelocity" : "Muzzle Velocity",
+    "stats.ammo.muzzlevelocity.description" : "How fast in meters/second the bullet will travel. The real value will be modified by the gun used to fire it.",
+
+    "stats.ammo.bleedchance" : "Chance of Bleed",
+    "stats.ammo.bleedchance.description" : "The percentage chance to cause bleed when the target is hit. The chance is reduced by the targets armor.",
+    "stats.ammo.bleedseverity" : "Bleed Severity",
+    "stats.ammo.bleedseverity.description" : "How much bleed is inflicted if the bullet successfully inflicts bleed.",
+
+    "stats.armor.rating" : "Armor Rating",
+    "stats.armor.rating.description" : "For damage calculation, the bullets armor penetration is subtracted from your armor rating before applying your armor resistance values. If the bullets penetration is higher, your armor will not protect you at all.",
+
+    "stats.armor.ballistic" : "Ballistic",
+    "stats.armor.ballistic.description" : "How much damage reduction this armor provides against bullets. The Br rating of the armor versus the bullet that hits you affects how much of this stat applies.",
+
+    "stats.armor.bludgeoning" : "Blunt",
+    "stats.armor.bludgeoning.description" : "How much damage reduction vs blunt damage this armor provides. This includes certain mutants attacks, as well as prop damage and some melee weapons.",
+
+    "stats.armor.slashing" : "Slashing",
+    "stats.armor.slashing.description" : "How much damage reduction vs slashing damage this armor provides. This includes certain mutants and some melee weapons.",
+
+    "stats.armor.explosion" : "Explosion",
+    "stats.armor.explosion.description" : "How much damage reduction vs explosions this armor provides. This does not include shrapnel from explosions, which will use your ballistic resistances.",
+
+    "stats.armor.fire" : "Fire",
+    "stats.armor.fire.description" : "How much damage reduction vs fire this armor provides. If this value is high enough, you'll take no environmental damage from appropriate anomaly fields. Stepping on one directly is probably still a bad idea.",
+
+    "stats.armor.electric" : "Electric",
+    "stats.armor.electric.description" : "How much damage reduction vs electricty this armor provides. If this value is high enough, you'll take no environmental damage from appropriate anomaly fields. Additionally, it will reduce electronic interference from anomalies.",
+
+    "stats.armor.chemical" : "Chemical",
+    "stats.armor.chemical.description" : "How much damage reduction vs chemical hazards this armor provides. If this value is high enough, you'll take no environmental damage from appropriate anomaly fields. It will also reduce durability loss from corrosive environments.",
+
+    "stats.armor.psychic" : "Psychic",
+    "stats.armor.psychic.description" : "How much psy damage reduction vs psychic hazards this armor provides. If this value is high enough, psy fields will no longer drain your psy health. This stat is rare.",
+
+    "stats.armor.radiation" : "Radiation",
+    "stats.armor.radiation.description" : "How much this armor reduces the build up of radiation. If this value is high enough, radiation fields will no longer increase your radiation levels. It will not protect against artifacts warn, however.",
+
+    "stats.armor.movespeed" : "Move Speed",
+    "stats.armor.movespeed.description" : "Multiplier to movement speed this armor provides.",
+
+    "stats.armor.jumpheight" : "Jump Height",
+    "stats.armor.jumpheight.description" : "Multiplier to jump height this armor provides.",
+
+    "stats.armor.carryweight" : "Carry Weight",
+    "stats.armor.carryweight.description" : "How much extra carry weight this armor gives you on top of your base carry weight.",
+
+    "stats.armor.staminacost" : "Stamina Cost",
+    "stats.armor.staminacost.description" : "How much more/less stamina this armor causes you to use.",
+
+    "stats.armor.staminaregeneration" : "Stamina Regeneration",
+    "stats.armor.staminaregeneration.description" : "How much this armor increases/descreases your stamina regeneration.",
+
+    "stats.weapon.accuracy" : "Accuracy",
+    "stats.weapon.accuracy.description" : "How accurate the gun is. 100% represents exactly zero spread.",
+
+    "stats.weapon.rpm" : "RPM",
+    "stats.weapon.rpm.description" : "Rounds fired per minute.",
+
+    "stats.weapon.recoil.vertical" : "Vertical Recoil",
+    "stats.weapon.recoil.vertical.description" : "How much the gun kicks up vertically when firing. Higher recoil means more kick.",
+
+    "stats.weapon.recoil.horizontal" : "Horizontal Recoil",
+    "stats.weapon.recoil.horizontal.description" : "How much horizontal kick the gun has when firing. Higher recoil means more kick.",
+
+    "stats.weapon.handling" : "Handling",
+    "stats.weapon.handling.description" : "How much the gun sways when using it. Higher handling results in less sway.",
+
+    "stats.weapon.ergonomics" : "Ergonomics",
+    "stats.weapon.ergonomics.description" : "How stamina efficient actions with this weapon are. Higher ergonomics resulsts in less stamina drain.",
+
+    "stats.weapon.reliability" : "Reliability",
+    "stats.weapon.reliability.description" : "Reliability affects how much durability is lost when using the weapon. Higher reliability means slower durability loss.",
+
+    "stats.weapon.magazinecapacity" : "Magazine Capacity",
+    "stats.weapon.magazinecapacity.description" : "How many bullets fit in the magazine.",
+
+    "stats.weapon.automatic" : "Automatic",
+    "stats.weapon.automatic.description" : "Is the gun automatic or not.",
+
+    "stats.item.storage" : "Storage Slots",
+    "stats.item.storage.description" : "How many slots total the storage for this item has.",
+
+    "stats.consumable.usetime" : "Use Time",
+    "stats.consumable.usetime.description" : "How long in seconds it takes to use the item. Note that its effects may apply before this time is finished.",
+
+    "stats.consumable.usetime.instant" : "Instant"
+}
