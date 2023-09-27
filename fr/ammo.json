@@ -1,22 +1,22 @@
 {
-    "12x70.name" : "12x70 buckshot",
-    "12x70.description" : "Standard 12 gauge round filled with 6mm shot. Probably the most common ammo in the Zone, its killing power is lethal at close range but the pellets have almost no penetration, making it a weak option vs armor.",
+    "12x70.name" : "Chevrotine 12x70",
+    "12x70.description" : "Cartouche standard calibre 12 remplie au 6mm. La munition la plus courante dans la Zone: létal à courte portée mais peu de puissance de pénétration, donc faible contre l'armure.",
 
-    "9x18.name" : "9x18mm FMJ",
-    "9x18.description" : "A standard low caliber round, used in small arms and submachine guns. The jacketed bullet has good ballistic characteristics while being easy to produce, making it a popular choice of ammunition in the Zone.\n\nIneffective against most armor.",
+    "9x18.name" : "FMJ 9x18mm",
+    "9x18.description" : "Cartouche standard bas calibre. Typiquement utilisée dans les armes légères et les mitrailettes. Sa munition à enveloppe présente de bonnes characteristiques ballistiques tout en étant facile à produire, la rendant un choix populaire dans la zone.\n\nInefficace contre l'armure.",
 
-    "9x39.name" : "9x39mm AP",
-    "9x39.description" : "A subsonic round with a hardened, armor piercing core. Despite the low velocity of the bullet it provides considerable stopping power, able to penetrade 2mm of steel at 500m. It's popular in Warsaw Pact countries and has made a reputation for cost effectiveness in the Zone.",
+    "9x39.name" : "AP 9x39mm ",
+    "9x39.description" : "Cartouche subsonique au noyau durci et perforant. Puissance d'arrêt considerable capable de penetrer 2mm d'acier à une distance de 500m, même pour sa faible vitesse. Son rapport coût-efficacité en fait un choix populaire dans les pays du Pacte de Varsovie",
 
-    "5x45x39.name" : "5.45x39mm FMJ",
-    "5x45x39.description" : "A rimless, bottlenecked cartridge with a jacketed bullet. Despite the light weight of the bullet it travels at a high velocity, making it exceptionally lethal even against lightly armored targets. At long ranges however, it will struggle to penetrate anything more than weakest armor.",
+    "5x45x39.name" : "FMJ 5.45x39mm",
+    "5x45x39.description" : "Cartouche sans monture, à goulot d'étranglement et à balle gainée. Vitesse élevée relatif à son faible poids la rendant exceptionellement mortelle même contre des cibles à blindage légèr.\n\nFaible pénétration à longues distances.",
 
-    "7x62x54.name" : "7.62x54mm FMJ",
-    "7x62x54.description" : "A rimmed rifle cartridge originally produced in 1891, making it the second oldest cartridge still in service. The round offers excellent ballistic properties, high velocity and good penetration at all ranges.\n\nDue to popularity and subsequently increased demand in the Zone, it has become more expensive than many other optons.",
+    "7x62x54.name" : "FMJ 7.62x54mm",
+    "7x62x54.description" : "Cartouche cerclée pour fusil produite à l'origine en 1891, ce qui en fait la deuxième cartouche la plus ancienne encore en service. Présente d'excellentes propriétés ballistiques, une vitesse élevée et une bonne pénétration à toutes distances.\n\nDu à sa popularité, il s'agit d'une des munitions les plus convoitées (et chères) de la Zone.",
 
-    "50cal.name" : ".50 AE",
-    "50cal.description" : "One of the most powerful pistol cartridges in production, the .50 Action Express is most known for its use in the Desert Eagle.\n\nWhile the recoil is almost comically large and few take the cartridge seriously for combat situations, many Stalkers seek out weapons that use this ammo due to the unmatched stopping power it provides.\n\nIt will tear through most armor and mutant hide like there's nothing there.",
+    "50cal.name" : ".AE 50",
+    "50cal.description" : "Une des cartouches les plus puissantes encore en production, la .50 Action Express est principalement connue pour son utilisation dans le Desert Eagle. \n\nSon fort recul la rend peu pratique en combat, mais de nombreux Stalkers recherchent des armes utilisant ces munitions en raison de la puissance d'arrêt inégalée qu'elle fournit.\n\nPerce l'armure comme si ne rien n'était et transforme les mutants en bouillie.",
 
-    "rpg7.grenade.name" : "RPG-7 Grenade",
-    "rpg7.grenade.description" : "A grenade fitted with a gunpowder booster charge and a rocket motor, with an average speed of almost 300m/s once fired. The grenade has a minimum arming range of 10 meters, before which the grenade will fail to detonate.\n\nThe explosives in the grenade make it well suited for destroying armored vehicles as well as any mutant unlucky enough to get in the way."
+    "rpg7.grenade.name" : "Grenade RPG-7",
+    "rpg7.grenade.description" : "Grenade équipée d'une charge d'appoint de poudre à canon et d'un moteur-fusée. Vitesse moyenne de près de 300m/s une fois tirée. Portée d'armement minimale de 10 mètres, sans quoi la grenade n'explosera pas.\n\nSes explosifs la rendent bien adaptée à la destruction de véhicules blindés ainsi qu'aux mutants en chemin."
 }
