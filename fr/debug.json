@@ -1,75 +1,75 @@
 {
-    "debug.command.god" : "God Mode",
-    "debug.command.god.description" : "Become invincible.",
+    "debug.command.god" : "Mode Dieu",
+    "debug.command.god.description" : "Vous rend invincible.",
 
-    "debug.command.respawn" : "Respawn",
-    "debug.command.respawn.description" : "Respawn yourself as if you had died.",
+    "debug.command.respawn" : "Réapparaitre",
+    "debug.command.respawn.description" : "Réapparaissez comme si vous êtiez mort.",
 
-    "debug.command.resetstats" : "Reset Stats",
-    "debug.command.resetstats.description" : "Reset your stats.",
+    "debug.command.resetstats" : "Réinitialiser Stats",
+    "debug.command.resetstats.description" : "Réinitialise vos statistiques.",
 
-    "debug.command.heal" : "Heal",
-    "debug.command.heal.description" : "Heal yourself to full and remove all debuffs and negative conditions.",
+    "debug.command.heal" : "Soins",
+    "debug.command.heal.description" : "Vous soigne complètement et supprime tous les debuffs et conditions négatives.",
 
-    "debug.command.restartround" : "Restart Round",
-    "debug.command.restartround.description" : "If in a round based gamemode, restart the round.",
+    "debug.command.restartround" : "Recommencer la manche",
+    "debug.command.restartround.description" : "Recommence la manche actuelle si vous êtes dans un mode de jeu basé sur des manches.",
 
-    "debug.command.infiniteammo" : "Infinite Ammo",
-    "debug.command.infiniteammo.description" : "Give yourself unlimited ammo.",
+    "debug.command.infiniteammo" : "Munitions infinies",
+    "debug.command.infiniteammo.description" : "Vous octroie des munitions infinies.",
 
-    "debug.command.ghost" : "Ghost Mode",
-    "debug.command.ghost.description" : "Enemies will be unable to target you.",
+    "debug.command.ghost" : "Mode fantôme",
+    "debug.command.ghost.description" : "Les ennemis seront incapables de vous cibler.",
 
-    "debug.command.toggleai" : "Toggle AI",
-    "debug.command.toggleai.description" : "Toggle on/off the enemy AI.",
+    "debug.command.toggleai" : "Basculer l'IA",
+    "debug.command.toggleai.description" : "Bascule l'IA des ennemis.",
 
-    "debug.command.toggleevents" : "Toggle Events",
-    "debug.command.toggleevents.description" : "Turn intensity events on/off.",
+    "debug.command.toggleevents" : "Basculer les évènements",
+    "debug.command.toggleevents.description" : "Bascule les évènements d'intensité.",
 
-    "debug.command.debugbullets" : "Debug Bullets",
-    "debug.command.debugbullets.description" : "Turn on/off bullet debug mode.",
+    "debug.command.debugbullets" : "Tirs de debug",
+    "debug.command.debugbullets.description" : "Bascule le mode debug pour les tirs",
 
-    "debug.command.clearnpcs" : "Clear NPCs",
-    "debug.command.clearnpcs.description" : "Delets all NPCs.",
+    "debug.command.clearnpcs" : "Effacer les PNJ",
+    "debug.command.clearnpcs.description" : "Efface tous les PNJ présents.",
 
-    "debug.command.clearanomalies" : "Clear Anomalies",
-    "debug.command.clearanomalies.description" : "Delete all anomalies from the map.",
+    "debug.command.clearanomalies" : "Effacer les Anomalies",
+    "debug.command.clearanomalies.description" : "Efface toutes les Anomalies de la map.",
 
     "debug.command.suicide" : "Suicide",
-    "debug.command.suicide.description" : "Kills your player character.",
+    "debug.command.suicide.description" : "Votre personnage se suicide.",
 
-    "debug.command.killtarget" : "Kill Target",
-    "debug.command.killtarget.description" : "Kills whatever you're looking at.",
+    "debug.command.killtarget" : "Tuer cible",
+    "debug.command.killtarget.description" : "Tue toute cible devant vous.",
 
-    "debug.command.deletetarget" : "Delete Target",
-    "debug.command.deletetarget.description" : "Delete whatever you're looking at.",
+    "debug.command.deletetarget" : "Effacer cible",
+    "debug.command.deletetarget.description" : "Efface toute entité devant vous.",
 
-    "debug.command.dawn" : "Dawn",
-    "debug.command.dawn.description" : "Set the time of day to 7am.",
+    "debug.command.dawn" : "Aube",
+    "debug.command.dawn.description" : "Règle l'heure de la journée à 7am.",
 
-    "debug.command.day" : "Day",
-    "debug.command.day.description" : "Set the time of day to 12am",
+    "debug.command.day" : "Jour",
+    "debug.command.day.description" : "Règle l'heure de la journée à 12am",
 
-    "debug.command.dusk" : "Dusk",
-    "debug.command.dusk.description" : "Set the time of day to 6pm.",
+    "debug.command.dusk" : "Crépuscule",
+    "debug.command.dusk.description" : "Règle l'heure de la journée à 6pm.",
 
-    "debug.command.night" : "Night",
-    "debug.command.night.description" : "Set the time of day to 11pm.",
+    "debug.command.night" : "Nuit",
+    "debug.command.night.description" : "Règle l'heure de la journée à 11pm.",
 
-    "debug.command.timespeed10" : "10x Speed",
-    "debug.command.timespeed-10" : "-10x Speed",
-    "debug.command.timespeed1" : "Normal Speed",
-    "debug.command.timespeed0" : "Freeze Time",
+    "debug.command.timespeed10" : "Vitesse 10x",
+    "debug.command.timespeed-10" : "Vitesse -10x",
+    "debug.command.timespeed1" : "Vitesse normale",
+    "debug.command.timespeed0" : "Temps mort",
 
-    "debug.category.commands" : "Commands",
+    "debug.category.commands" : "Commandes",
     "debug.category.spawnable" : "Spawnable",
     "debug.category.spawnable.mutants" : "Mutants",
     "debug.category.spawnable.anomalies" : "Anomalies",
-    "debug.category.spawnable.entities" : "Entities",
-    "debug.category.items" : "Items",
+    "debug.category.spawnable.entities" : "Entités",
+    "debug.category.items" : "Objets",
 
     "debug.subcategory.cheats" : "Cheats",
-    "debug.subcategory.timemanagement" : "Time Management",
-    "debug.subcategory.roundmanagement" : "Round Management",
+    "debug.subcategory.timemanagement" : "Réglages temps",
+    "debug.subcategory.roundmanagement" : "Réglages manche",
     "debug.subcategory.debugging" : "Debugging"
 }
