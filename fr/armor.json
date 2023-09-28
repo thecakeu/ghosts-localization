@@ -1,10 +1,10 @@
 {
-    "leatherjacket.name" : "Leather Jacket",
-    "leatherjacket.description" : "A hallmark of any rookie to the Zone, the Leather Jacket offers very little protection from mutants, anomalies or radiation. Many Stalkers consider wearing one of these the equivalent of being naked, but at the very least this will keep you warm.",
+    "leatherjacket.name" : "Veste en cuir",
+    "leatherjacket.description" : "La marque de fabrique de toute recrue de la Zone, la veste en cuir offre très peu de protection contre les mutants, les anomalies ou la radiation. Les Stalkers considèrent que la porter equivait à être nu, mais au moins elle vous gardera au chaud",
 
-    "mediumarmor.name" : "Stalker Suit",
-    "mediumarmor.description" : "An effective combination of a light military bulletproof vest and of a rubberized fabric suit. It is reinforced with inserted kevlar plates and provides good protection from weak gunfire, while still maintaining appreciable protectiion against anomalies and radiation.",
+    "mediumarmor.name" : "Combinaison de Stalker",
+    "mediumarmor.description" : "Une combinaison efficace d'un gilet pare-balles militaire léger et d'une combinaison en tissu caoutchouté. Renforcé par des plaques de kevlar insérées et offre une bonne protection contre les faibles calibres, tout en maintenant une protection efficace contre les anomalies et les radiations.",
 
-    "exoarmor.name" : "Exoskeleton",
-    "exoarmor.description" : "An experimental exoskeleton prototype first produced by the military. Despite never seeing mass production due to their exorbitant cost and numerous design flaws, they are still in high demand within the Zone. They offer unmatched protection from claws, gunfire, fragmentation, anomalies and radiation.\n\nThese suits additionally grant the wearer a near supernatural level of strength, vastly incrasing the maximum weight they can carry as well as reducing fatigue from long trecks throughout Zone and enhancing their melee capabilities.\n\nSome experimental suits even introduce a steady dose of chemicals into the wearers bloodsteam in order to maintain combat effectiveness."
+    "exoarmor.name" : "Exosquelette",
+    "exoarmor.description" : "Un prototype experimental d'exosquelette produit par l'armée. Très convoité dans la Zone, il n'a jamais été produit en masse du à son coût de production exorbitant et ses nombreux défauts de conception. Offre une protection inégalée contre les coups, les tirs, explosifs, anomalies et radiation.\n\nConfère un niveau de force presque surnaturel, augmentant considérablement le poids maximum que vous pouvez porter tout en réduisant la fatigue liée aux longues randonnées à travers la Zone et améliorant vos capacités de combat au poing.\n\nCertaines combinaisons expérimentales introduisent même une dose constante de produits chimiques dans votre sang afin de maintenir une efficacité au combat inégalée."
 }
