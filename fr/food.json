@@ -1,7 +1,7 @@
 {
-    "waterbottle.name" : "Water Bottle",
-    "waterbottle.description" : "A bottle of clean water, either boiled and treated in the Zone or imported from outside.",
+    "waterbottle.name" : "Bouteille d'eau",
+    "waterbottle.description" : "Une bouteille d'eau propre, soit bouillie et traitée dans la Zone, soit importée de l'extérieur.",
 
-    "bread.name" : "Bread",
-    "bread.description" : "A loaf of bread, made within the Zone itself. Very plain and lacking in any sense of flavour, but it's clean and filling enough.\n\nMore than most can ask for in the Zone."
+    "bread.name" : "Pain",
+    "bread.description" : "Une miche de pain fabriquée au sein même de la Zone. Simple et dépourvu de toute saveur, mais propre et suffisament copieux.\n\nTout ce dont on peut se contenter dans la Zone."
 }
