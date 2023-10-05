@@ -1,10 +1,10 @@
 {
-    "respirator.name" : "Respirator",
-    "respirator.description" : "A rubber, emergency gasmask not designed for extended use. While it filters some toxins and radioactive particles from the air that is breathed in, it is not nearly as effective as proper protective equipment as it leaves the the eyes and face exposed to the elements.\n\nIt offers zero physical protection.\n\nStill, better than nothing. There are no choosing beggars in the Zone.",
+    "respirator.name" : "Respirateur",
+    "respirator.description" : "Un masque à gaz d'urgence en caoutchouc conçu pour une durée utilisation courte. Bien qu'il filtre certaines toxines et particules radioactives de l'air respiré, il n'est pas aussi efficace qu'un équipement de protection approprié car il laisse les yeux et le visage exposés.\n\nIl n'offre aucune protection physique.\n\nQuoi qu'il en soit, c'est mieux que rien. Il n’y a pas de choix pour les mendiants dans la Zone.",
 
-    "gasmask.name" : "Gas Mask",
-    "gasmask.description" : "A plastic and rubber gas mask, useful for filtering out chemicals and radioactive particles, while providing adequate protection from the elements. Its cheap materials and easy design make it an extremely common choice all throughout the Zone, by rookies and veterans alike.\n\nHowever, despite its popularity, it provdes very little combat protection and is ill-suited for a firefight.",
+    "gasmask.name" : "Masque à gaz",
+    "gasmask.description" : "Un masque à gaz en plastique et en caoutchouc, utile pour filtrer les produits chimiques et les particules radioactives, tout en offrant une protection faciale adéquate. Ses matériaux bon marché et sa conception simple en font un choix extrêmement courant dans toute la Zone, aussi bien par les débutants que par les vétérans.\n\nCependant, malgré sa popularité, il offre très peu de protection au combat et est mal adapté aux échanges de tirs.",
 
-    "exohelmet.name" : "Exo Helmet",
-    "exohelmet.description" : "Designed to be used alongside the military prototype exoskeletons, the Exo Helmet comes fitted with advanced chemical and radiological filters, as well as specialized air-flow pumps to allow for easier breathing.\n\nA combination of steel plates, carbonfibre polymer, and titanium webbing allow for the helmet to provide excellent protection from anomalies, gunfire and mutant attacks. It even provides limited psychic protection, though it is still considered experimental."
+    "exohelmet.name" : "Exo-casque",
+    "exohelmet.description" : "Conçu pour être utilisé en conjonction des prototypes d'exosquelettes militaires, l'Exo-casque est équipé de filtres chimiques et radiologiques avancés, ainsi que de pompes à air spécialisées pour permettre une respiration plus facile.\n\nUne combinaison de plaques d'acier, de polymère de fibre de carbone et de titane permettent au casque d'offrir une excellente protection contre les anomalies, les coups de feu et les attaques mutantes. Il offre même une protection psychique limitée, même s'il est toujours considéré comme expérimental."
 }
